@@ -192,8 +192,10 @@ interface CountryData {
 interface WorldBirthrateData {
   country: string;
   name: string;
+  year: number;
   population: number;
   birthRate: number;
+  births: number;
   birthRatePercentage: number;
 }
 
@@ -730,15 +732,24 @@ export function apply(ctx: Context, config: Config) {
     config.isEnableQQOfficialRobotMarkdownTemplate &&
     config.key !== "" &&
     config.customTemplateId !== "";
-  const macauBirthPopulation = 3712;
-  const taiwanBirthPopulation = 137413;
-  const hongKongBirthPopulation = 33200;
-  const chinaBirthPopulation = 12123210;
-  const totalPopulation =
-    chinaBirthPopulation +
-    hongKongBirthPopulation +
-    macauBirthPopulation +
-    taiwanBirthPopulation;
+  const totalPopulation = birthrateDetailedData.reduce((total, region) => {
+    if (region.name === "national") return total;
+    const multiplier = isSpecialProvince(region.name) ? 1 : 10;
+    for (const category of ["town", "city", "countryside"] as const) {
+      for (const order of [
+        "one",
+        "two",
+        "three",
+        "four",
+        "fivePlus",
+      ] as const) {
+        total +=
+          (region[category][order].male + region[category][order].female) *
+          multiplier;
+      }
+    }
+    return total;
+  }, 0);
   const continentDict = {
     AF: "非洲",
     EU: "欧洲",
@@ -2008,20 +2019,23 @@ export function apply(ctx: Context, config: Config) {
   function simulateRebirthInWorld(
     worldData: WorldBirthrateData[],
   ): string | null {
-    const randomValue = Math.random();
+    const totalBirths = worldData.reduce(
+      (sum, country) => sum + country.births,
+      0,
+    );
+    if (totalBirths <= 0) return null;
 
-    let selectedCountry: WorldBirthrateData = null;
-
-    while (!selectedCountry) {
-      const randomIndex = Math.floor(Math.random() * worldData.length);
-      const selected = worldData[randomIndex];
-
-      if (selected.birthRatePercentage * 100 > randomValue) {
-        selectedCountry = selected;
-      }
+    const randomValue = Math.random() * totalBirths;
+    let cumulativeBirths = 0;
+    for (const country of worldData) {
+      cumulativeBirths += country.births;
+      if (randomValue < cumulativeBirths) return country.name;
     }
 
-    return selectedCountry ? selectedCountry.name : null;
+    for (let index = worldData.length - 1; index >= 0; index -= 1) {
+      if (worldData[index].births > 0) return worldData[index].name;
+    }
+    return null;
   }
 
   function getWorldRanking(

@@ -2,8 +2,8 @@
   "AD": {
     "nameEn": "Andorra",
     "nameCn": "安道尔",
-    "population": 77.35,
-    "birthRate": 7,
+    "population": 82.904,
+    "birthRate": 6.854,
     "position": [
       1.32,
       42.31
@@ -13,8 +13,8 @@
   "AE": {
     "nameEn": "United Arab Emirates",
     "nameCn": "阿拉伯联合酋长国",
-    "population": 9991.08,
-    "birthRate": 10,
+    "population": 11346,
+    "birthRate": 10.052,
     "position": [
       54.22,
       24.28
@@ -24,8 +24,8 @@
   "AF": {
     "nameEn": "Afghanistan",
     "nameCn": "阿富汗",
-    "population": 39835.43,
-    "birthRate": 31,
+    "population": 43844.112,
+    "birthRate": 34.391,
     "position": [
       67.709953,
       33.93911
@@ -35,8 +35,8 @@
   "AG": {
     "nameEn": "Antigua and Barbuda",
     "nameCn": "安提瓜和巴布达",
-    "population": 98.73,
-    "birthRate": 15,
+    "population": 94.208,
+    "birthRate": 11.577,
     "position": [
       -61.48,
       17.2
@@ -46,8 +46,8 @@
   "AL": {
     "nameEn": "Albania",
     "nameCn": "阿尔巴尼亚",
-    "population": 2811.67,
-    "birthRate": 11,
+    "population": 2771.508,
+    "birthRate": 9.898,
     "position": [
       20.168331,
       41.153332
@@ -57,8 +57,8 @@
   "AM": {
     "nameEn": "Armenia",
     "nameCn": "亚美尼亚",
-    "population": 2968.13,
-    "birthRate": 13,
+    "population": 2952.365,
+    "birthRate": 11.833,
     "position": [
       44.31,
       40.1
@@ -68,8 +68,8 @@
   "BT": {
     "nameEn": "Bhutan",
     "nameCn": "不丹",
-    "population": 779.9,
-    "birthRate": 17,
+    "population": 796.682,
+    "birthRate": 12.346,
     "position": [
       90.433601,
       27.514162
@@ -79,8 +79,8 @@
   "CV": {
     "nameEn": "Cabo Verde",
     "nameCn": "佛得角",
-    "population": 561.9,
-    "birthRate": 19,
+    "population": 527.326,
+    "birthRate": 12.069,
     "position": [
       -23.34,
       15.02
@@ -90,8 +90,8 @@
   "BA": {
     "nameEn": "Bosnia and Herzegovina",
     "nameCn": "波斯尼亚和黑塞哥维那",
-    "population": 3263.46,
-    "birthRate": 8,
+    "population": 3140.096,
+    "birthRate": 7.725,
     "position": [
       17.702648,
       44.007665
@@ -101,8 +101,8 @@
   "AW": {
     "nameEn": "Aruba",
     "nameCn": "阿鲁巴",
-    "population": 107.19,
-    "birthRate": 12,
+    "population": 108.147,
+    "birthRate": 9.458,
     "position": [
       -70.02,
       12.32
@@ -112,8 +112,8 @@
   "AO": {
     "nameEn": "Angola",
     "nameCn": "安哥拉",
-    "population": 33933.61,
-    "birthRate": 40,
+    "population": 39040.039,
+    "birthRate": 36.624,
     "position": [
       17.873887,
       -11.202692
@@ -123,8 +123,8 @@
   "AR": {
     "nameEn": "Argentina",
     "nameCn": "阿根廷",
-    "population": 45808.75,
-    "birthRate": 17,
+    "population": 45851.378,
+    "birthRate": 11.081,
     "position": [
       -63.61667199999999,
       -38.416097
@@ -134,8 +134,8 @@
   "AT": {
     "nameEn": "Austria",
     "nameCn": "奥地利",
-    "population": 8956.28,
-    "birthRate": 9,
+    "population": 9113.574,
+    "birthRate": 8.271,
     "position": [
       14.550072,
       47.516231
@@ -145,8 +145,8 @@
   "AU": {
     "nameEn": "Australia",
     "nameCn": "澳大利亚",
-    "population": 25739.26,
-    "birthRate": 12,
+    "population": 26974.026,
+    "birthRate": 11.282,
     "position": [
       133.775136,
       -25.274398
@@ -156,8 +156,8 @@
   "AZ": {
     "nameEn": "Azerbaijan",
     "nameCn": "阿塞拜疆",
-    "population": 10145.21,
-    "birthRate": 13,
+    "population": 10397.713,
+    "birthRate": 11.55,
     "position": [
       47.576927,
       40.143105
@@ -167,8 +167,8 @@
   "BB": {
     "nameEn": "Barbados",
     "nameCn": "巴巴多斯",
-    "population": 287.71,
-    "birthRate": 11,
+    "population": 282.623,
+    "birthRate": 11.044,
     "position": [
       -59.3,
       13.05
@@ -178,8 +178,8 @@
   "BD": {
     "nameEn": "Bangladesh",
     "nameCn": "孟加拉国",
-    "population": 166303.49,
-    "birthRate": 18,
+    "population": 175686.9,
+    "birthRate": 19.587,
     "position": [
       90.356331,
       23.684994
@@ -189,8 +189,8 @@
   "BE": {
     "nameEn": "Belgium",
     "nameCn": "比利时",
-    "population": 11587.88,
-    "birthRate": 10,
+    "population": 11758.603,
+    "birthRate": 8.606,
     "position": [
       4.469936,
       50.503887
@@ -200,8 +200,8 @@
   "BF": {
     "nameEn": "Burkina Faso",
     "nameCn": "布基纳法索",
-    "population": 21497.1,
-    "birthRate": 37,
+    "population": 24074.58,
+    "birthRate": 30.808,
     "position": [
       -1.561593,
       12.238333
@@ -211,8 +211,8 @@
   "BG": {
     "nameEn": "Bulgaria",
     "nameCn": "保加利亚",
-    "population": 6899.13,
-    "birthRate": 9,
+    "population": 6714.56,
+    "birthRate": 8.992,
     "position": [
       25.48583,
       42.733883
@@ -222,8 +222,8 @@
   "BH": {
     "nameEn": "Bahrain",
     "nameCn": "巴林",
-    "population": 1748.3,
-    "birthRate": 13,
+    "population": 1643.332,
+    "birthRate": 11.926,
     "position": [
       50.3,
       26.1
@@ -233,8 +233,8 @@
   "BI": {
     "nameEn": "Burundi",
     "nameCn": "布隆迪",
-    "population": 12255.43,
-    "birthRate": 38,
+    "population": 14390.002,
+    "birthRate": 32.573,
     "position": [
       29.918886,
       -3.373056
@@ -244,8 +244,8 @@
   "BJ": {
     "nameEn": "Benin",
     "nameCn": "贝宁",
-    "population": 12451.03,
-    "birthRate": 35,
+    "population": 14814.46,
+    "birthRate": 33.046,
     "position": [
       2.315834,
       9.30769
@@ -255,8 +255,8 @@
   "BM": {
     "nameEn": "Bermuda",
     "nameCn": "百慕大",
-    "population": 63.87,
-    "birthRate": 8,
+    "population": 64.554,
+    "birthRate": 7.821,
     "position": [
       -64.765816,
       32.289895
@@ -266,8 +266,8 @@
   "BN": {
     "nameEn": "Brunei Darussalam",
     "nameCn": "文莱",
-    "population": 441.53,
-    "birthRate": 14,
+    "population": 466.33,
+    "birthRate": 12.999,
     "position": [
       114.727669,
       4.535277
@@ -277,8 +277,8 @@
   "BO": {
     "nameEn": "Bolivia",
     "nameCn": "玻利维亚",
-    "population": 11832.94,
-    "birthRate": 21,
+    "population": 12581.842,
+    "birthRate": 20.783,
     "position": [
       -63.58865299999999,
       -16.290154
@@ -288,8 +288,8 @@
   "BR": {
     "nameEn": "Brazil",
     "nameCn": "巴西",
-    "population": 213993.44,
-    "birthRate": 13,
+    "population": 212812.405,
+    "birthRate": 11.882,
     "position": [
       -51.92528,
       -14.235004
@@ -299,8 +299,8 @@
   "BS": {
     "nameEn": "Bahamas The",
     "nameCn": "巴哈马",
-    "population": 396.91,
-    "birthRate": 14,
+    "population": 403.033,
+    "birthRate": 10.67,
     "position": [
       -77.39627999999999,
       25.03428
@@ -310,8 +310,8 @@
   "BW": {
     "nameEn": "Botswana",
     "nameCn": "博茨瓦纳",
-    "population": 2397.24,
-    "birthRate": 24,
+    "population": 2562.122,
+    "birthRate": 23.881,
     "position": [
       24.684866,
       -22.328474
@@ -321,8 +321,8 @@
   "BY": {
     "nameEn": "Belarus",
     "nameCn": "白俄罗斯",
-    "population": 9340.31,
-    "birthRate": 9,
+    "population": 8997.603,
+    "birthRate": 6.928,
     "position": [
       27.953389,
       53.709807
@@ -332,8 +332,8 @@
   "BZ": {
     "nameEn": "Belize",
     "nameCn": "伯利兹",
-    "population": 404.92,
-    "birthRate": 20,
+    "population": 422.924,
+    "birthRate": 17.777,
     "position": [
       -88.49765,
       17.189877
@@ -343,8 +343,8 @@
   "CA": {
     "nameEn": "Canada",
     "nameCn": "加拿大",
-    "population": 38246.11,
-    "birthRate": 9,
+    "population": 40126.723,
+    "birthRate": 8.999,
     "position": [
       -106.346771,
       56.130366
@@ -354,8 +354,8 @@
   "KY": {
     "nameEn": "Cayman Islands",
     "nameCn": "开曼群岛",
-    "population": 66.5,
-    "birthRate": 13,
+    "population": 75.844,
+    "birthRate": 11.225,
     "position": [
       -81.24,
       19.2
@@ -365,8 +365,8 @@
   "XC": {
     "nameEn": "Channel Islands",
     "nameCn": "海峡群岛",
-    "population": 175.24,
-    "birthRate": 10,
+    "population": 168.464,
+    "birthRate": 8.156,
     "position": [
       -2.15306,
       49.227503
@@ -376,8 +376,8 @@
   "CF": {
     "nameEn": "Central African Republic",
     "nameCn": "中非共和国",
-    "population": 4919.99,
-    "birthRate": 35,
+    "population": 5513.282,
+    "birthRate": 45.361,
     "position": [
       20.939444,
       6.611110999999999
@@ -387,8 +387,8 @@
   "CG": {
     "nameEn": "Congo Rep.",
     "nameCn": "刚果共和国",
-    "population": 5657.02,
-    "birthRate": 32,
+    "population": 6484.437,
+    "birthRate": 30.155,
     "position": [
       15.827659,
       -0.228021
@@ -398,8 +398,8 @@
   "CD": {
     "nameEn": "Congo Dem. Rep.",
     "nameCn": "刚果民主共和国",
-    "population": 92377.99,
-    "birthRate": 40,
+    "population": 112832.473,
+    "birthRate": 40.411,
     "position": [
       21.758664,
       -4.038333
@@ -409,8 +409,8 @@
   "CH": {
     "nameEn": "Switzerland",
     "nameCn": "瑞士",
-    "population": 8697.72,
-    "birthRate": 10,
+    "population": 8967.408,
+    "birthRate": 9.124,
     "position": [
       8.227511999999999,
       46.818188
@@ -420,8 +420,8 @@
   "HR": {
     "nameEn": "Croatia",
     "nameCn": "克罗地亚",
-    "population": 3899.0,
-    "birthRate": 9,
+    "population": 3848.16,
+    "birthRate": 8.054,
     "position": [
       15.2,
       45.1
@@ -431,8 +431,8 @@
   "GQ": {
     "nameEn": "Equatorial Guinea",
     "nameCn": "赤道几内亚",
-    "population": 1449.89,
-    "birthRate": 32,
+    "population": 1938.431,
+    "birthRate": 29.586,
     "position": [
       10.267895,
       1.650801
@@ -442,8 +442,8 @@
   "KM": {
     "nameEn": "Comoros",
     "nameCn": "科摩罗",
-    "population": 888.46,
-    "birthRate": 31,
+    "population": 882.848,
+    "birthRate": 27.779,
     "position": [
       43.872219,
       -11.875001
@@ -453,8 +453,8 @@
   "ER": {
     "nameEn": "Eritrea",
     "nameCn": "厄立特里亚",
-    "population": 3213.97,
-    "birthRate": 29,
+    "population": 3607.003,
+    "birthRate": 28.632,
     "position": [
       39.782334,
       15.179384
@@ -464,8 +464,8 @@
   "FO": {
     "nameEn": "Faroe Islands",
     "nameCn": "法罗群岛",
-    "population": 49.05,
-    "birthRate": 13,
+    "population": 56.002,
+    "birthRate": 12.775,
     "position": [
       -6.56,
       62.05
@@ -475,8 +475,8 @@
   "CL": {
     "nameEn": "Chile",
     "nameCn": "智利",
-    "population": 19212.36,
-    "birthRate": 12,
+    "population": 19859.921,
+    "birthRate": 8.579,
     "position": [
       -71.542969,
       -35.675147
@@ -486,8 +486,8 @@
   "CM": {
     "nameEn": "Cameroon",
     "nameCn": "喀麦隆",
-    "population": 27224.26,
-    "birthRate": 34,
+    "population": 29879.337,
+    "birthRate": 32.821,
     "position": [
       12.354722,
       7.369721999999999
@@ -497,8 +497,8 @@
   "CN": {
     "nameEn": "China",
     "nameCn": "中国",
-    "population": 1411100.0,
-    "birthRate": 9,
+    "population": 1416096.094,
+    "birthRate": 6.15,
     "position": [
       104.195397,
       35.86166
@@ -508,8 +508,8 @@
   "CO": {
     "nameEn": "Colombia",
     "nameCn": "哥伦比亚",
-    "population": 51265.84,
-    "birthRate": 14,
+    "population": 53425.635,
+    "birthRate": 12.967,
     "position": [
       -74.297333,
       4.570868
@@ -519,8 +519,8 @@
   "CR": {
     "nameEn": "Costa Rica",
     "nameCn": "哥斯达黎加",
-    "population": 5139.05,
-    "birthRate": 13,
+    "population": 5152.95,
+    "birthRate": 9.825,
     "position": [
       -83.753428,
       9.748916999999999
@@ -530,8 +530,8 @@
   "CS": {
     "nameEn": "Czechia",
     "nameCn": "捷克",
-    "population": 10703.45,
-    "birthRate": 10,
+    "population": 10609.24,
+    "birthRate": 8.193,
     "position": [
       14.22,
       50.05
@@ -541,8 +541,8 @@
   "CU": {
     "nameEn": "Cuba",
     "nameCn": "古巴",
-    "population": 11317.5,
-    "birthRate": 10,
+    "population": 10937.204,
+    "birthRate": 8.549,
     "position": [
       -77.781167,
       21.521757
@@ -552,8 +552,8 @@
   "CW": {
     "nameEn": "Curacao",
     "nameCn": "库拉索",
-    "population": 152369,
-    "birthRate": 9,
+    "population": 185.487,
+    "birthRate": 7.538,
     "position": [
       -69.043487,
       12.214819
@@ -563,8 +563,8 @@
   "CY": {
     "nameEn": "Cyprus",
     "nameCn": "塞浦路斯",
-    "population": 1215.59,
-    "birthRate": 10,
+    "population": 1370.754,
+    "birthRate": 10.179,
     "position": [
       33.429859,
       35.126413
@@ -574,8 +574,8 @@
   "DE": {
     "nameEn": "Germany",
     "nameCn": "德国",
-    "population": 83129.29,
-    "birthRate": 9,
+    "population": 84075.075,
+    "birthRate": 8.421,
     "position": [
       10.451526,
       51.165691
@@ -585,8 +585,8 @@
   "DJ": {
     "nameEn": "Djibouti",
     "nameCn": "吉布提",
-    "population": 1002.2,
-    "birthRate": 21,
+    "population": 1184.076,
+    "birthRate": 20.675,
     "position": [
       42.590275,
       11.825138
@@ -596,8 +596,8 @@
   "DK": {
     "nameEn": "Denmark",
     "nameCn": "丹麦",
-    "population": 5856.73,
-    "birthRate": 10,
+    "population": 6002.507,
+    "birthRate": 9.867,
     "position": [
       9.501785,
       56.26392
@@ -607,8 +607,8 @@
   "DM": {
     "nameEn": "Dominica",
     "nameCn": "多米尼克",
-    "population": 72560,
-    "birthRate": 13,
+    "population": 65.872,
+    "birthRate": 10.828,
     "position": [
       -61.37537535672797,
       15.48719905990989
@@ -618,8 +618,8 @@
   "DO": {
     "nameEn": "Dominican Republic",
     "nameCn": "多米尼加共和国",
-    "population": 10953.71,
-    "birthRate": 19,
+    "population": 11520.487,
+    "birthRate": 17.275,
     "position": [
       -69.59,
       18.3
@@ -629,8 +629,8 @@
   "DZ": {
     "nameEn": "Algeria",
     "nameCn": "阿尔及利亚",
-    "population": 44616.63,
-    "birthRate": 23,
+    "population": 47435.312,
+    "birthRate": 18.034,
     "position": [
       1.659626,
       28.033886
@@ -640,8 +640,8 @@
   "EC": {
     "nameEn": "Ecuador",
     "nameCn": "厄瓜多尔",
-    "population": 17888.47,
-    "birthRate": 19,
+    "population": 18289.896,
+    "birthRate": 14.635,
     "position": [
       -78.18340599999999,
       -1.831239
@@ -651,8 +651,8 @@
   "EE": {
     "nameEn": "Estonia",
     "nameCn": "爱沙尼亚",
-    "population": 1329.25,
-    "birthRate": 10,
+    "population": 1344.232,
+    "birthRate": 7.89,
     "position": [
       25.013607,
       58.595272
@@ -662,8 +662,8 @@
   "EG": {
     "nameEn": "Egypt Arab Rep.",
     "nameCn": "埃及",
-    "population": 104258.33,
-    "birthRate": 25,
+    "population": 118365.994,
+    "birthRate": 20.699,
     "position": [
       30.802498,
       26.820553
@@ -673,8 +673,8 @@
   "ES": {
     "nameEn": "Spain",
     "nameCn": "西班牙",
-    "population": 47326.69,
-    "birthRate": 7,
+    "population": 47889.958,
+    "birthRate": 6.892,
     "position": [
       -3.74922,
       40.46366700000001
@@ -684,8 +684,8 @@
   "ET": {
     "nameEn": "Ethiopia",
     "nameCn": "埃塞俄比亚",
-    "population": 117876.23,
-    "birthRate": 31,
+    "population": 135472.051,
+    "birthRate": 30.831,
     "position": [
       40.489673,
       9.145000000000001
@@ -695,8 +695,8 @@
   "FI": {
     "nameEn": "Finland",
     "nameCn": "芬兰",
-    "population": 5541.7,
-    "birthRate": 8,
+    "population": 5623.33,
+    "birthRate": 7.811,
     "position": [
       25.748151,
       61.92410999999999
@@ -706,8 +706,8 @@
   "FJ": {
     "nameEn": "Fiji",
     "nameCn": "斐济",
-    "population": 902.9,
-    "birthRate": 21,
+    "population": 933.154,
+    "birthRate": 17.624,
     "position": [
       178.3,
       -18.06
@@ -717,8 +717,8 @@
   "FR": {
     "nameEn": "France",
     "nameCn": "法国",
-    "population": 67499.34,
-    "birthRate": 11,
+    "population": 66650.804,
+    "birthRate": 9.52,
     "position": [
       2.213749,
       46.227638
@@ -728,8 +728,8 @@
   "GA": {
     "nameEn": "Gabon",
     "nameCn": "加蓬",
-    "population": 2278.83,
-    "birthRate": 30,
+    "population": 2593.13,
+    "birthRate": 26.646,
     "position": [
       11.609444,
       -0.803689
@@ -739,8 +739,8 @@
   "GB": {
     "nameEn": "United Kingdom",
     "nameCn": "英国",
-    "population": 67326.57,
-    "birthRate": 10,
+    "population": 69551.332,
+    "birthRate": 9.778,
     "position": [
       -3.435973,
       55.378051
@@ -750,8 +750,8 @@
   "GD": {
     "nameEn": "Grenada",
     "nameCn": "格林纳达",
-    "population": 113.02,
-    "birthRate": 16,
+    "population": 117.304,
+    "birthRate": 11.245,
     "position": [
       -61.721782,
       12.08328
@@ -761,8 +761,8 @@
   "GE": {
     "nameEn": "Georgia",
     "nameCn": "格鲁吉亚",
-    "population": 3708.61,
-    "birthRate": 13,
+    "population": 3806.671,
+    "birthRate": 11.057,
     "position": [
       -82.9000751,
       32.1656221
@@ -772,8 +772,8 @@
   "GH": {
     "nameEn": "Ghana",
     "nameCn": "加纳",
-    "population": 31732.13,
-    "birthRate": 29,
+    "population": 35064.272,
+    "birthRate": 25.607,
     "position": [
       -1.023194,
       7.946527
@@ -783,8 +783,8 @@
   "GM": {
     "nameEn": "Gambia The",
     "nameCn": "冈比亚",
-    "population": 2486.94,
-    "birthRate": 38,
+    "population": 2822.093,
+    "birthRate": 29.253,
     "position": [
       -15.310139,
       13.443182
@@ -794,8 +794,8 @@
   "GN": {
     "nameEn": "Guinea",
     "nameCn": "几内亚",
-    "population": 13497.24,
-    "birthRate": 36,
+    "population": 15099.727,
+    "birthRate": 32.752,
     "position": [
       -9.696645,
       9.945587
@@ -805,8 +805,8 @@
   "GR": {
     "nameEn": "Greece",
     "nameCn": "希腊",
-    "population": 10664.57,
-    "birthRate": 8,
+    "population": 9938.844,
+    "birthRate": 6.857,
     "position": [
       21.824312,
       39.074208
@@ -816,8 +816,8 @@
   "GT": {
     "nameEn": "Guatemala",
     "nameCn": "危地马拉",
-    "population": 17109.75,
-    "birthRate": 24,
+    "population": 18687.881,
+    "birthRate": 20.34,
     "position": [
       -90.23075899999999,
       15.783471
@@ -827,8 +827,8 @@
   "GU": {
     "nameEn": "Guam",
     "nameCn": "关岛",
-    "population": 170.18,
-    "birthRate": 16,
+    "population": 168.999,
+    "birthRate": 17.03,
     "position": [
       144.747738,
       13.440083
@@ -838,8 +838,8 @@
   "GY": {
     "nameEn": "Guyana",
     "nameCn": "圭亚那",
-    "population": 790.33,
-    "birthRate": 19,
+    "population": 835.986,
+    "birthRate": 19.499,
     "position": [
       -58.93018,
       4.860416
@@ -849,8 +849,8 @@
   "HK": {
     "nameEn": "Hong Kong SAR China",
     "nameCn": "中国香港特别行政区",
-    "population": 7413.1,
-    "birthRate": 6,
+    "population": 7396.076,
+    "birthRate": 5.268,
     "position": [
       114.213137,
       22.279452
@@ -860,8 +860,8 @@
   "HN": {
     "nameEn": "Honduras",
     "nameCn": "洪都拉斯",
-    "population": 10062.99,
-    "birthRate": 21,
+    "population": 11005.85,
+    "birthRate": 21.315,
     "position": [
       -86.241905,
       15.199999
@@ -871,8 +871,8 @@
   "HT": {
     "nameEn": "Haiti",
     "nameCn": "海地",
-    "population": 11541.68,
-    "birthRate": 24,
+    "population": 11906.096,
+    "birthRate": 21.622,
     "position": [
       -72.285215,
       18.971187
@@ -882,8 +882,8 @@
   "HU": {
     "nameEn": "Hungary",
     "nameCn": "匈牙利",
-    "population": 9709.89,
-    "birthRate": 10,
+    "population": 9632.287,
+    "birthRate": 8.752,
     "position": [
       19.503304,
       47.162494
@@ -893,8 +893,8 @@
   "ID": {
     "nameEn": "Indonesia",
     "nameCn": "印度尼西亚",
-    "population": 276361.79,
-    "birthRate": 17,
+    "population": 285721.236,
+    "birthRate": 15.543,
     "position": [
       106.515414,
       -6.10304
@@ -904,8 +904,8 @@
   "IE": {
     "nameEn": "Ireland",
     "nameCn": "爱尔兰",
-    "population": 5028.23,
-    "birthRate": 11,
+    "population": 5308.039,
+    "birthRate": 9.912,
     "position": [
       -8.24389,
       53.41291
@@ -915,8 +915,8 @@
   "IL": {
     "nameEn": "Israel",
     "nameCn": "以色列",
-    "population": 9364.0,
-    "birthRate": 19,
+    "population": 9517.18,
+    "birthRate": 18.008,
     "position": [
       34.851612,
       31.046051
@@ -926,8 +926,8 @@
   "IM": {
     "nameEn": "Isle of Man",
     "nameCn": "马恩岛",
-    "population": 84069,
-    "birthRate": 9,
+    "population": 84.118,
+    "birthRate": 8.174,
     "position": [
       -4.52276,
       54.224657
@@ -937,8 +937,8 @@
   "IN": {
     "nameEn": "India",
     "nameCn": "印度",
-    "population": 1393409.03,
-    "birthRate": 17,
+    "population": 1463865.525,
+    "birthRate": 15.762,
     "position": [
       78.96288,
       20.593684
@@ -948,8 +948,8 @@
   "IQ": {
     "nameEn": "Iraq",
     "nameCn": "伊拉克",
-    "population": 41179.35,
-    "birthRate": 28,
+    "population": 47020.774,
+    "birthRate": 25.256,
     "position": [
       43.679291,
       33.223191
@@ -959,8 +959,8 @@
   "IR": {
     "nameEn": "Iran Islamic Rep.",
     "nameCn": "伊朗",
-    "population": 85028.76,
-    "birthRate": 18,
+    "population": 92417.681,
+    "birthRate": 12.175,
     "position": [
       53.688046,
       32.427908
@@ -970,8 +970,8 @@
   "IS": {
     "nameEn": "Iceland",
     "nameCn": "冰岛",
-    "population": 372.3,
-    "birthRate": 12,
+    "population": 398.266,
+    "birthRate": 10.965,
     "position": [
       -19.020835,
       64.963051
@@ -981,8 +981,8 @@
   "IT": {
     "nameEn": "Italy",
     "nameCn": "意大利",
-    "population": 59066.22,
-    "birthRate": 7,
+    "population": 59146.26,
+    "birthRate": 6.467,
     "position": [
       12.56738,
       41.87194
@@ -992,8 +992,8 @@
   "CI": {
     "nameEn": "Cote d'Ivoire",
     "nameCn": "科特迪瓦",
-    "population": 27053.63,
-    "birthRate": 35,
+    "population": 32711.547,
+    "birthRate": 31.107,
     "position": [
       -5.17,
       6.49
@@ -1003,8 +1003,8 @@
   "JM": {
     "nameEn": "Jamaica",
     "nameCn": "牙买加",
-    "population": 2973.46,
-    "birthRate": 16,
+    "population": 2837.077,
+    "birthRate": 11.222,
     "position": [
       -77.297508,
       18.109581
@@ -1014,8 +1014,8 @@
   "JO": {
     "nameEn": "Jordan",
     "nameCn": "约旦",
-    "population": 10269.02,
-    "birthRate": 21,
+    "population": 11520.684,
+    "birthRate": 20.142,
     "position": [
       36.238414,
       30.585164
@@ -1025,8 +1025,8 @@
   "JP": {
     "nameEn": "Japan",
     "nameCn": "日本",
-    "population": 125681.59,
-    "birthRate": 7,
+    "population": 123103.479,
+    "birthRate": 6.078,
     "position": [
       138.252924,
       36.204824
@@ -1036,8 +1036,8 @@
   "KE": {
     "nameEn": "Kenya",
     "nameCn": "肯尼亚",
-    "population": 54985.7,
-    "birthRate": 28,
+    "population": 57532.492,
+    "birthRate": 26.782,
     "position": [
       37.906193,
       -0.023559
@@ -1047,8 +1047,8 @@
   "KG": {
     "nameEn": "Kyrgyz Republic",
     "nameCn": "吉尔吉斯斯坦",
-    "population": 6694.2,
-    "birthRate": 24,
+    "population": 7295.034,
+    "birthRate": 20.491,
     "position": [
       74.46,
       42.54
@@ -1058,8 +1058,8 @@
   "KH": {
     "nameEn": "Cambodia",
     "nameCn": "柬埔寨",
-    "population": 16946.45,
-    "birthRate": 22,
+    "population": 17847.982,
+    "birthRate": 19.869,
     "position": [
       104.990963,
       12.565679
@@ -1069,8 +1069,8 @@
   "KP": {
     "nameEn": "Korea Dem. People's Rep.",
     "nameCn": "朝鲜",
-    "population": 25887.04,
-    "birthRate": 14,
+    "population": 26571.036,
+    "birthRate": 12.603,
     "position": [
       127.510093,
       40.339852
@@ -1080,8 +1080,8 @@
   "KR": {
     "nameEn": "Korea Rep.",
     "nameCn": "韩国",
-    "population": 51744.88,
-    "birthRate": 5,
+    "population": 51667.029,
+    "birthRate": 4.759,
     "position": [
       127.766922,
       35.907757
@@ -1091,8 +1091,8 @@
   "KW": {
     "nameEn": "Kuwait",
     "nameCn": "科威特",
-    "population": 4328.55,
-    "birthRate": 13,
+    "population": 5026.078,
+    "birthRate": 9.7,
     "position": [
       47.481766,
       29.31166
@@ -1102,8 +1102,8 @@
   "KZ": {
     "nameEn": "Kazakhstan",
     "nameCn": "哈萨克斯坦",
-    "population": 19002.59,
-    "birthRate": 23,
+    "population": 20843.754,
+    "birthRate": 18.952,
     "position": [
       66.923684,
       48.019573
@@ -1113,8 +1113,8 @@
   "LA": {
     "nameEn": "Lao PDR",
     "nameCn": "老挝",
-    "population": 7379.36,
-    "birthRate": 23,
+    "population": 7873.046,
+    "birthRate": 20.497,
     "position": [
       102.495496,
       19.85627
@@ -1124,8 +1124,8 @@
   "LB": {
     "nameEn": "Lebanon",
     "nameCn": "黎巴嫩",
-    "population": 6769.15,
-    "birthRate": 17,
+    "population": 5849.42,
+    "birthRate": 15.82,
     "position": [
       35.862285,
       33.854721
@@ -1135,8 +1135,8 @@
   "LC": {
     "nameEn": "St. Lucia",
     "nameCn": "圣卢西亚",
-    "population": 184.4,
-    "birthRate": 12,
+    "population": 180.149,
+    "birthRate": 11.018,
     "position": [
       -60.58,
       14.02
@@ -1146,8 +1146,8 @@
   "LI": {
     "nameEn": "Liechtenstein",
     "nameCn": "列支敦士登",
-    "population": 38.25,
-    "birthRate": 9,
+    "population": 40.128,
+    "birthRate": 9.241,
     "position": [
       9.31,
       47.08
@@ -1157,8 +1157,8 @@
   "LK": {
     "nameEn": "Sri Lanka",
     "nameCn": "斯里兰卡",
-    "population": 22156.0,
-    "birthRate": 15,
+    "population": 23229.47,
+    "birthRate": 13.711,
     "position": [
       80.77179699999999,
       7.873053999999999
@@ -1168,8 +1168,8 @@
   "LR": {
     "nameEn": "Liberia",
     "nameCn": "利比里亚",
-    "population": 5180.21,
-    "birthRate": 32,
+    "population": 5731.206,
+    "birthRate": 30.267,
     "position": [
       -9.429499000000002,
       6.428055
@@ -1179,8 +1179,8 @@
   "LS": {
     "nameEn": "Lesotho",
     "nameCn": "莱索托",
-    "population": 2159.07,
-    "birthRate": 26,
+    "population": 2363.325,
+    "birthRate": 23.456,
     "position": [
       28.233608,
       -29.609988
@@ -1190,8 +1190,8 @@
   "LT": {
     "nameEn": "Lithuania",
     "nameCn": "立陶宛",
-    "population": 2795.32,
-    "birthRate": 9,
+    "population": 2830.144,
+    "birthRate": 7.808,
     "position": [
       23.881275,
       55.169438
@@ -1201,8 +1201,8 @@
   "LU": {
     "nameEn": "Luxembourg",
     "nameCn": "卢森堡",
-    "population": 639.07,
-    "birthRate": 10,
+    "population": 680.454,
+    "birthRate": 10.211,
     "position": [
       6.129582999999999,
       49.815273
@@ -1212,8 +1212,8 @@
   "LV": {
     "nameEn": "Latvia",
     "nameCn": "拉脱维亚",
-    "population": 1883.16,
-    "birthRate": 9,
+    "population": 1853.559,
+    "birthRate": 7.394,
     "position": [
       24.603189,
       56.879635
@@ -1223,8 +1223,8 @@
   "LY": {
     "nameEn": "Libya",
     "nameCn": "利比亚",
-    "population": 6958.54,
-    "birthRate": 18,
+    "population": 7458.554,
+    "birthRate": 16.112,
     "position": [
       17.228331,
       26.3351
@@ -1234,8 +1234,8 @@
   "MA": {
     "nameEn": "Morocco",
     "nameCn": "摩洛哥",
-    "population": 37344.79,
-    "birthRate": 18,
+    "population": 38430.77,
+    "birthRate": 16.108,
     "position": [
       -7.092619999999999,
       31.791702
@@ -1245,8 +1245,8 @@
   "MC": {
     "nameEn": "Monaco",
     "nameCn": "摩纳哥",
-    "population": 39.52,
-    "birthRate": 8,
+    "population": 38.341,
+    "birthRate": 9.622,
     "position": [
       7.414268,
       43.735708
@@ -1256,8 +1256,8 @@
   "MD": {
     "nameEn": "Moldova",
     "nameCn": "摩尔多瓦",
-    "population": 2573.93,
-    "birthRate": 10,
+    "population": 2996.106,
+    "birthRate": 10.35,
     "position": [
       28.369885,
       47.411631
@@ -1267,8 +1267,8 @@
   "MF": {
     "nameEn": "St. Martin (French part)",
     "nameCn": "法属圣马丁",
-    "population": 31948,
-    "birthRate": 15,
+    "population": 24.94,
+    "birthRate": 13.425,
     "position": [
       -63.045922,
       18.082392
@@ -1278,8 +1278,8 @@
   "MG": {
     "nameEn": "Madagascar",
     "nameCn": "马达加斯加",
-    "population": 28427.33,
-    "birthRate": 32,
+    "population": 32740.678,
+    "birthRate": 31.255,
     "position": [
       46.869107,
       -18.766947
@@ -1289,8 +1289,8 @@
   "MH": {
     "nameEn": "Marshall Islands",
     "nameCn": "马绍尔群岛",
-    "population": 64110,
-    "birthRate": 19,
+    "population": 36.282,
+    "birthRate": 19.707,
     "position": [
       171.959505,
       5.999336
@@ -1300,8 +1300,8 @@
   "ML": {
     "nameEn": "Mali",
     "nameCn": "马里",
-    "population": 20855.72,
-    "birthRate": 41,
+    "population": 25198.821,
+    "birthRate": 39.17,
     "position": [
       -3.996166,
       17.570692
@@ -1311,8 +1311,8 @@
   "MM": {
     "nameEn": "Myanmar",
     "nameCn": "缅甸",
-    "population": 54806.01,
-    "birthRate": 17,
+    "population": 54850.648,
+    "birthRate": 16.195,
     "position": [
       95.956223,
       21.913965
@@ -1322,8 +1322,8 @@
   "MN": {
     "nameEn": "Mongolia",
     "nameCn": "蒙古",
-    "population": 3329.28,
-    "birthRate": 23,
+    "population": 3517.1,
+    "birthRate": 17.466,
     "position": [
       103.846656,
       46.862496
@@ -1333,8 +1333,8 @@
   "MO": {
     "nameEn": "Macao SAR China",
     "nameCn": "中国澳门特别行政区",
-    "population": 658.39,
-    "birthRate": 11,
+    "population": 722.007,
+    "birthRate": 6.275,
     "position": [
       113.578035,
       22.14523
@@ -1344,8 +1344,8 @@
   "MT": {
     "nameEn": "Malta",
     "nameCn": "马耳他",
-    "population": 516.87,
-    "birthRate": 9,
+    "population": 545.405,
+    "birthRate": 7.758,
     "position": [
       14.31,
       35.54
@@ -1355,8 +1355,8 @@
   "MP": {
     "nameEn": "Northern Mariana Islands",
     "nameCn": "北马里亚纳群岛",
-    "population": 57.91,
-    "birthRate": 13,
+    "population": 43.541,
+    "birthRate": 11.44,
     "position": [
       145.45,
       15.12
@@ -1366,8 +1366,8 @@
   "MQ": {
     "nameEn": "St. Martin (French part)",
     "nameCn": "马提尼克",
-    "population": 39.24,
-    "birthRate": 14,
+    "population": 340.439,
+    "birthRate": 9.974,
     "position": [
       -61.02,
       14.36
@@ -1377,8 +1377,8 @@
   "MU": {
     "nameEn": "Mauritius",
     "nameCn": "毛里求斯",
-    "population": 1266.06,
-    "birthRate": 11,
+    "population": 1268.28,
+    "birthRate": 8.994,
     "position": [
       57.559051,
       -20.246695
@@ -1388,19 +1388,19 @@
   "MV": {
     "nameEn": "Maldives",
     "nameCn": "马尔代夫",
-    "population": 543.62,
-    "birthRate": 13,
+    "population": 529.676,
+    "birthRate": 10.2,
     "position": [
       73.28,
-      4.0
+      4
     ],
     "continent": "AS"
   },
   "MW": {
     "nameEn": "Malawi",
     "nameCn": "马拉维",
-    "population": 19647.68,
-    "birthRate": 33,
+    "population": 22216.12,
+    "birthRate": 30.848,
     "position": [
       34.301525,
       -13.254308
@@ -1410,8 +1410,8 @@
   "MX": {
     "nameEn": "Mexico",
     "nameCn": "墨西哥",
-    "population": 130262.22,
-    "birthRate": 17,
+    "population": 131946.9,
+    "birthRate": 15.185,
     "position": [
       -102.552784,
       23.634501
@@ -1421,8 +1421,8 @@
   "MY": {
     "nameEn": "Malaysia",
     "nameCn": "马来西亚",
-    "population": 32776.19,
-    "birthRate": 16,
+    "population": 35977.838,
+    "birthRate": 12.223,
     "position": [
       101.975766,
       4.210484
@@ -1432,8 +1432,8 @@
   "MZ": {
     "nameEn": "Mozambique",
     "nameCn": "莫桑比克",
-    "population": 32163.04,
-    "birthRate": 37,
+    "population": 35631.653,
+    "birthRate": 36.608,
     "position": [
       35.529562,
       -18.665695
@@ -1443,8 +1443,8 @@
   "NA": {
     "nameEn": "Namibia",
     "nameCn": "纳米比亚",
-    "population": 2587.34,
-    "birthRate": 28,
+    "population": 3092.816,
+    "birthRate": 25.442,
     "position": [
       18.49041,
       -22.95764
@@ -1454,8 +1454,8 @@
   "NE": {
     "nameEn": "Niger",
     "nameCn": "尼日尔",
-    "population": 25130.81,
-    "birthRate": 45,
+    "population": 27917.831,
+    "birthRate": 40.769,
     "position": [
       8.081666,
       17.607789
@@ -1465,8 +1465,8 @@
   "NG": {
     "nameEn": "Nigeria",
     "nameCn": "尼日利亚",
-    "population": 211400.7,
-    "birthRate": 37,
+    "population": 237527.782,
+    "birthRate": 32.167,
     "position": [
       8.675277,
       9.081999
@@ -1476,8 +1476,8 @@
   "NI": {
     "nameEn": "Nicaragua",
     "nameCn": "尼加拉瓜",
-    "population": 6702.38,
-    "birthRate": 20,
+    "population": 7007.502,
+    "birthRate": 18.809,
     "position": [
       -85.207229,
       12.865416
@@ -1487,8 +1487,8 @@
   "NL": {
     "nameEn": "Netherlands",
     "nameCn": "荷兰",
-    "population": 17533.4,
-    "birthRate": 10,
+    "population": 18346.819,
+    "birthRate": 9.495,
     "position": [
       5.291265999999999,
       52.132633
@@ -1498,8 +1498,8 @@
   "NO": {
     "nameEn": "Norway",
     "nameCn": "挪威",
-    "population": 5408.32,
-    "birthRate": 10,
+    "population": 5623.071,
+    "birthRate": 9.422,
     "position": [
       8.468945999999999,
       60.47202399999999
@@ -1509,8 +1509,8 @@
   "NP": {
     "nameEn": "Nepal",
     "nameCn": "尼泊尔",
-    "population": 29674.92,
-    "birthRate": 19,
+    "population": 29618.118,
+    "birthRate": 18.625,
     "position": [
       84.12400799999999,
       28.394857
@@ -1520,8 +1520,8 @@
   "NZ": {
     "nameEn": "New Zealand",
     "nameCn": "新西兰",
-    "population": 5122.6,
-    "birthRate": 11,
+    "population": 5251.899,
+    "birthRate": 11.137,
     "position": [
       174.885971,
       -40.900557
@@ -1531,8 +1531,8 @@
   "OM": {
     "nameEn": "Oman",
     "nameCn": "阿曼",
-    "population": 5223.38,
-    "birthRate": 18,
+    "population": 5494.691,
+    "birthRate": 16.403,
     "position": [
       55.923255,
       21.512583
@@ -1542,8 +1542,8 @@
   "PA": {
     "nameEn": "Panama",
     "nameCn": "巴拿马",
-    "population": 4381.58,
-    "birthRate": 18,
+    "population": 4571.189,
+    "birthRate": 15.666,
     "position": [
       -80.782127,
       8.537981
@@ -1553,8 +1553,8 @@
   "PE": {
     "nameEn": "Peru",
     "nameCn": "秘鲁",
-    "population": 33359.42,
-    "birthRate": 18,
+    "population": 34576.665,
+    "birthRate": 15.493,
     "position": [
       -75.015152,
       -9.189967
@@ -1564,8 +1564,8 @@
   "PF": {
     "nameEn": "French Polynesia",
     "nameCn": "法属波利尼西亚",
-    "population": 282.53,
-    "birthRate": 14,
+    "population": 282.465,
+    "birthRate": 10.479,
     "position": [
       -149.34,
       -17.32
@@ -1575,8 +1575,8 @@
   "PG": {
     "nameEn": "Papua New Guinea",
     "nameCn": "巴布亚新几内亚",
-    "population": 9119.0,
-    "birthRate": 27,
+    "population": 10762.817,
+    "birthRate": 23.876,
     "position": [
       143.95555,
       -6.314992999999999
@@ -1586,8 +1586,8 @@
   "PH": {
     "nameEn": "Philippines",
     "nameCn": "菲律宾",
-    "population": 111046.91,
-    "birthRate": 20,
+    "population": 116786.962,
+    "birthRate": 15.804,
     "position": [
       121.774017,
       12.879721
@@ -1597,8 +1597,8 @@
   "PK": {
     "nameEn": "Pakistan",
     "nameCn": "巴基斯坦",
-    "population": 225199.93,
-    "birthRate": 27,
+    "population": 255219.554,
+    "birthRate": 27.073,
     "position": [
       69.34511599999999,
       30.375321
@@ -1608,8 +1608,8 @@
   "PL": {
     "nameEn": "Poland",
     "nameCn": "波兰",
-    "population": 37781.02,
-    "birthRate": 9,
+    "population": 38140.91,
+    "birthRate": 7.797,
     "position": [
       19.145136,
       51.919438
@@ -1619,8 +1619,8 @@
   "PR": {
     "nameEn": "Puerto Rico",
     "nameCn": "波多黎各",
-    "population": 3263.58,
-    "birthRate": 6,
+    "population": 3235.289,
+    "birthRate": 5.9,
     "position": [
       -66.590149,
       18.220833
@@ -1630,8 +1630,8 @@
   "PS": {
     "nameEn": "West Bank and Gaza",
     "nameCn": "西岸和加沙",
-    "population": 2375259,
-    "birthRate": 28,
+    "population": 5589.623,
+    "birthRate": 25.921,
     "position": [
       34.308825,
       31.354676
@@ -1641,8 +1641,8 @@
   "PT": {
     "nameEn": "Portugal",
     "nameCn": "葡萄牙",
-    "population": 10299.42,
-    "birthRate": 8,
+    "population": 10411.834,
+    "birthRate": 8.227,
     "position": [
       -8.224454,
       39.39987199999999
@@ -1652,8 +1652,8 @@
   "PY": {
     "nameEn": "Paraguay",
     "nameCn": "巴拉圭",
-    "population": 7219.64,
-    "birthRate": 20,
+    "population": 7013.078,
+    "birthRate": 19.362,
     "position": [
       -58.443832,
       -23.442503
@@ -1663,8 +1663,8 @@
   "QA": {
     "nameEn": "Qatar",
     "nameCn": "卡塔尔",
-    "population": 2930.52,
-    "birthRate": 9,
+    "population": 3115.888,
+    "birthRate": 9.607,
     "position": [
       51.183884,
       25.354826
@@ -1674,8 +1674,8 @@
   "RO": {
     "nameEn": "Romania",
     "nameCn": "罗马尼亚",
-    "population": 19115.15,
-    "birthRate": 9,
+    "population": 18908.65,
+    "birthRate": 9.439,
     "position": [
       24.96676,
       45.943161
@@ -1685,8 +1685,8 @@
   "RU": {
     "nameEn": "Russian Federation",
     "nameCn": "俄罗斯",
-    "population": 143446.06,
-    "birthRate": 10,
+    "population": 143997.393,
+    "birthRate": 8.624,
     "position": [
       105.318756,
       61.52401
@@ -1696,8 +1696,8 @@
   "SA": {
     "nameEn": "Saudi Arabia",
     "nameCn": "沙特阿拉伯",
-    "population": 35340.68,
-    "birthRate": 17,
+    "population": 34566.328,
+    "birthRate": 16.342,
     "position": [
       45.079162,
       23.885942
@@ -1707,8 +1707,8 @@
   "SB": {
     "nameEn": "Solomon Islands",
     "nameCn": "所罗门群岛",
-    "population": 704.0,
-    "birthRate": 31,
+    "population": 838.646,
+    "birthRate": 26.423,
     "position": [
       160.156194,
       -9.64571
@@ -1718,8 +1718,8 @@
   "SC": {
     "nameEn": "Seychelles",
     "nameCn": "塞舌尔",
-    "population": 99.2,
-    "birthRate": 16,
+    "population": 132.779,
+    "birthRate": 13.343,
     "position": [
       55.452883,
       -4.651018
@@ -1729,8 +1729,8 @@
   "SD": {
     "nameEn": "Sudan",
     "nameCn": "苏丹",
-    "population": 44909.35,
-    "birthRate": 31,
+    "population": 51662.148,
+    "birthRate": 32.063,
     "position": [
       30.217636,
       12.862807
@@ -1740,8 +1740,8 @@
   "SE": {
     "nameEn": "Sweden",
     "nameCn": "瑞典",
-    "population": 10415.81,
-    "birthRate": 11,
+    "population": 10656.633,
+    "birthRate": 9.102,
     "position": [
       18.643501,
       60.12816100000001
@@ -1751,8 +1751,8 @@
   "SG": {
     "nameEn": "Singapore",
     "nameCn": "新加坡",
-    "population": 5453.57,
-    "birthRate": 9,
+    "population": 5870.75,
+    "birthRate": 8.49,
     "position": [
       103.86123,
       1.356423
@@ -1762,8 +1762,8 @@
   "SI": {
     "nameEn": "Slovenia",
     "nameCn": "斯洛文尼亚",
-    "population": 2107.01,
-    "birthRate": 9,
+    "population": 2117.072,
+    "birthRate": 8.129,
     "position": [
       14.995463,
       46.151241
@@ -1773,8 +1773,8 @@
   "SK": {
     "nameEn": "Slovak Republic",
     "nameCn": "斯洛伐克",
-    "population": 5447.25,
-    "birthRate": 10,
+    "population": 5474.881,
+    "birthRate": 9.065,
     "position": [
       19.699024,
       48.669026
@@ -1784,8 +1784,8 @@
   "SL": {
     "nameEn": "Sierra Leone",
     "nameCn": "塞拉利昂",
-    "population": 8141.34,
-    "birthRate": 32,
+    "population": 8819.794,
+    "birthRate": 29.512,
     "position": [
       -11.779889,
       8.460555
@@ -1795,8 +1795,8 @@
   "SM": {
     "nameEn": "San Marino",
     "nameCn": "圣马力诺",
-    "population": 34.01,
-    "birthRate": 6,
+    "population": 33.572,
+    "birthRate": 5.789,
     "position": [
       12.3,
       43.55
@@ -1806,8 +1806,8 @@
   "AS": {
     "nameEn": "American Samoa",
     "nameCn": "美属萨摩亚",
-    "population": 55.1,
-    "birthRate": 13,
+    "population": 46.028,
+    "birthRate": 14.737,
     "position": [
       -170.43,
       -14.16
@@ -1817,8 +1817,8 @@
   "WS": {
     "nameEn": "Samoa",
     "nameCn": "萨摩亚",
-    "population": 200.14,
-    "birthRate": 24,
+    "population": 219.306,
+    "birthRate": 24.625,
     "position": [
       -171.5,
       -13.5
@@ -1828,8 +1828,8 @@
   "SN": {
     "nameEn": "Senegal",
     "nameCn": "塞内加尔",
-    "population": 17196.31,
-    "birthRate": 33,
+    "population": 18931.966,
+    "birthRate": 28.931,
     "position": [
       -14.452362,
       14.497401
@@ -1839,8 +1839,8 @@
   "SO": {
     "nameEn": "Somalia",
     "nameCn": "索马里",
-    "population": 16359.5,
-    "birthRate": 41,
+    "population": 19654.739,
+    "birthRate": 41.833,
     "position": [
       46.199616,
       5.152149
@@ -1850,8 +1850,8 @@
   "SR": {
     "nameEn": "Suriname",
     "nameCn": "苏里南",
-    "population": 591.8,
-    "birthRate": 18,
+    "population": 639.85,
+    "birthRate": 16.967,
     "position": [
       -56.027783,
       3.919305
@@ -1861,8 +1861,8 @@
   "ST": {
     "nameEn": "Sao Tome and Principe",
     "nameCn": "圣多美和普林西比",
-    "population": 223.36,
-    "birthRate": 31,
+    "population": 240.254,
+    "birthRate": 27.837,
     "position": [
       6.39,
       0.1
@@ -1872,8 +1872,8 @@
   "SV": {
     "nameEn": "El Salvador",
     "nameCn": "萨尔瓦多",
-    "population": 6518.5,
-    "birthRate": 18,
+    "population": 6365.503,
+    "birthRate": 15.376,
     "position": [
       -88.89653,
       13.794185
@@ -1883,8 +1883,8 @@
   "SX": {
     "nameEn": "Sint Maarten (Dutch part)",
     "nameCn": "荷属圣马丁",
-    "population": 41486,
-    "birthRate": 11,
+    "population": 43.923,
+    "birthRate": 8.996,
     "position": [
       -63.061921,
       18.034404
@@ -1894,8 +1894,8 @@
   "SY": {
     "nameEn": "Syrian Arab Republic",
     "nameCn": "叙利亚",
-    "population": 18275.7,
-    "birthRate": 23,
+    "population": 25620.427,
+    "birthRate": 23.475,
     "position": [
       38.996815,
       34.80207499999999
@@ -1905,8 +1905,8 @@
   "SZ": {
     "nameEn": "Eswatini",
     "nameCn": "斯威士兰",
-    "population": 1172.37,
-    "birthRate": 25,
+    "population": 1256.174,
+    "birthRate": 23.251,
     "position": [
       31.465866,
       -26.522503
@@ -1916,8 +1916,8 @@
   "TC": {
     "nameEn": "Turks and Caicos Islands",
     "nameCn": "特克斯和凯科斯群岛",
-    "population": 52570,
-    "birthRate": 12,
+    "population": 46.855,
+    "birthRate": 10.325,
     "position": [
       -71.760537,
       21.821179
@@ -1927,8 +1927,8 @@
   "TD": {
     "nameEn": "Chad",
     "nameCn": "乍得",
-    "population": 16914.99,
-    "birthRate": 41,
+    "population": 21003.705,
+    "birthRate": 43.198,
     "position": [
       18.732207,
       15.454166
@@ -1938,8 +1938,8 @@
   "TG": {
     "nameEn": "Togo",
     "nameCn": "多哥",
-    "population": 8478.24,
-    "birthRate": 32,
+    "population": 9721.608,
+    "birthRate": 30.453,
     "position": [
       0.824782,
       8.619543
@@ -1949,8 +1949,8 @@
   "TH": {
     "nameEn": "Thailand",
     "nameCn": "泰国",
-    "population": 69950.84,
-    "birthRate": 10,
+    "population": 71619.863,
+    "birthRate": 7.992,
     "position": [
       100.992541,
       15.870032
@@ -1960,8 +1960,8 @@
   "TJ": {
     "nameEn": "Tajikistan",
     "nameCn": "塔吉克斯坦",
-    "population": 9749.63,
-    "birthRate": 29,
+    "population": 10786.734,
+    "birthRate": 24.522,
     "position": [
       71.276093,
       38.861034
@@ -1971,8 +1971,8 @@
   "TM": {
     "nameEn": "Turkmenistan",
     "nameCn": "土库曼斯坦",
-    "population": 6117.93,
-    "birthRate": 22,
+    "population": 7618.848,
+    "birthRate": 20.034,
     "position": [
       59.556278,
       38.969719
@@ -1982,8 +1982,8 @@
   "TN": {
     "nameEn": "Tunisia",
     "nameCn": "突尼斯",
-    "population": 11935.76,
-    "birthRate": 17,
+    "population": 12348.573,
+    "birthRate": 12.998,
     "position": [
       9.537499,
       33.886917
@@ -1993,10 +1993,10 @@
   "TO": {
     "nameEn": "Tonga",
     "nameCn": "汤加",
-    "population": 106.76,
-    "birthRate": 24,
+    "population": 103.742,
+    "birthRate": 22.795,
     "position": [
-      -174.0,
+      -174,
       -21.1
     ],
     "continent": "OA"
@@ -2004,8 +2004,8 @@
   "TR": {
     "nameEn": "Turkiye",
     "nameCn": "土耳其",
-    "population": 85042.74,
-    "birthRate": 16,
+    "population": 87685.426,
+    "birthRate": 12.012,
     "position": [
       35.243322,
       38.963745
@@ -2015,8 +2015,8 @@
   "TT": {
     "nameEn": "Trinidad and Tobago",
     "nameCn": "特立尼达和多巴哥",
-    "population": 1403.37,
-    "birthRate": 12,
+    "population": 1511.155,
+    "birthRate": 10.281,
     "position": [
       -61.275187,
       10.468494
@@ -2026,8 +2026,8 @@
   "TV": {
     "nameEn": "Tuvalu",
     "nameCn": "图瓦卢",
-    "population": 11448,
-    "birthRate": 23,
+    "population": 9.492,
+    "birthRate": 21.204,
     "position": [
       177.447113,
       -7.5
@@ -2037,8 +2037,8 @@
   "TZ": {
     "nameEn": "Tanzania",
     "nameCn": "坦桑尼亚",
-    "population": 61498.44,
-    "birthRate": 36,
+    "population": 70545.865,
+    "birthRate": 34.294,
     "position": [
       35.45,
       -6.08
@@ -2048,8 +2048,8 @@
   "UA": {
     "nameEn": "Ukraine",
     "nameCn": "乌克兰",
-    "population": 43814.58,
-    "birthRate": 8,
+    "population": 38980.376,
+    "birthRate": 5.649,
     "position": [
       31.16558,
       48.379433
@@ -2059,8 +2059,8 @@
   "UG": {
     "nameEn": "Uganda",
     "nameCn": "乌干达",
-    "population": 47123.53,
-    "birthRate": 37,
+    "population": 51384.894,
+    "birthRate": 33.756,
     "position": [
       32.290275,
       1.373333
@@ -2070,8 +2070,8 @@
   "US": {
     "nameEn": "United States",
     "nameCn": "美国",
-    "population": 331893.74,
-    "birthRate": 11,
+    "population": 347275.808,
+    "birthRate": 10.55,
     "position": [
       -95.712891,
       37.09024
@@ -2081,8 +2081,8 @@
   "UY": {
     "nameEn": "Uruguay",
     "nameCn": "乌拉圭",
-    "population": 3485.15,
-    "birthRate": 14,
+    "population": 3384.688,
+    "birthRate": 9.748,
     "position": [
       -55.765835,
       -32.522779
@@ -2092,8 +2092,8 @@
   "UZ": {
     "nameEn": "Uzbekistan",
     "nameCn": "乌兹别克斯坦",
-    "population": 34915.1,
-    "birthRate": 25,
+    "population": 37053.428,
+    "birthRate": 24.592,
     "position": [
       64.585262,
       41.377491
@@ -2103,8 +2103,8 @@
   "VE": {
     "nameEn": "Venezuela RB",
     "nameCn": "委内瑞拉",
-    "population": 28704.95,
-    "birthRate": 17,
+    "population": 28516.896,
+    "birthRate": 15.294,
     "position": [
       -66.58973,
       6.42375
@@ -2114,8 +2114,8 @@
   "VN": {
     "nameEn": "Vietnam",
     "nameCn": "越南",
-    "population": 98168.83,
-    "birthRate": 16,
+    "population": 101598.527,
+    "birthRate": 13.075,
     "position": [
       108.277199,
       14.058324
@@ -2125,8 +2125,8 @@
   "YE": {
     "nameEn": "Yemen Rep.",
     "nameCn": "也门",
-    "population": 30490.64,
-    "birthRate": 29,
+    "population": 41773.878,
+    "birthRate": 33.546,
     "position": [
       48.516388,
       15.552727
@@ -2136,8 +2136,8 @@
   "RS": {
     "nameEn": "Serbia",
     "nameCn": "塞尔维亚",
-    "population": 6844.08,
-    "birthRate": 9,
+    "population": 6689.039,
+    "birthRate": 8.692,
     "position": [
       20.922496,
       44.018803
@@ -2147,8 +2147,8 @@
   "ZA": {
     "nameEn": "South Africa",
     "nameCn": "南非",
-    "population": 60042.0,
-    "birthRate": 20,
+    "population": 64747.319,
+    "birthRate": 18.159,
     "position": [
       22.937506,
       -30.559482
@@ -2158,8 +2158,8 @@
   "ZM": {
     "nameEn": "Zambia",
     "nameCn": "赞比亚",
-    "population": 18920.66,
-    "birthRate": 35,
+    "population": 21913.874,
+    "birthRate": 32.351,
     "position": [
       27.849332,
       -13.133897
@@ -2169,8 +2169,8 @@
   "ZW": {
     "nameEn": "Zimbabwe",
     "nameCn": "津巴布韦",
-    "population": 15092.17,
-    "birthRate": 29,
+    "population": 16950.795,
+    "birthRate": 29.54,
     "position": [
       29.154857,
       -19.015438
@@ -2180,8 +2180,8 @@
   "GL": {
     "nameEn": "Greenland",
     "nameCn": "格陵兰",
-    "population": 56.65,
-    "birthRate": 15,
+    "population": 55.745,
+    "birthRate": 13.232,
     "position": [
       -42.604303,
       71.706936
@@ -2191,8 +2191,8 @@
   "GW": {
     "nameEn": "Guinea-Bissau",
     "nameCn": "几内亚比绍",
-    "population": 2015.49,
-    "birthRate": 34,
+    "population": 2249.515,
+    "birthRate": 29.103,
     "position": [
       -15.180413,
       11.803749
@@ -2202,10 +2202,10 @@
   "KI": {
     "nameEn": "Kiribati",
     "nameCn": "基里巴斯",
-    "population": 121.39,
-    "birthRate": 27,
+    "population": 136.488,
+    "birthRate": 24.799,
     "position": [
-      173.0,
+      173,
       1.3
     ],
     "continent": "OA"
@@ -2213,8 +2213,8 @@
   "XO": {
     "nameEn": "Kosovo",
     "nameCn": "科索沃",
-    "population": 1806.28,
-    "birthRate": 15,
+    "population": 1674.125,
+    "birthRate": 11.683,
     "position": [
       20.902977,
       42.6026359
@@ -2224,8 +2224,8 @@
   "MR": {
     "nameEn": "Mauritania",
     "nameCn": "毛里塔尼亚",
-    "population": 4775.11,
-    "birthRate": 33,
+    "population": 5315.065,
+    "birthRate": 33.659,
     "position": [
       -10.940835,
       21.00789
@@ -2235,8 +2235,8 @@
   "FM": {
     "nameEn": "Micronesia Fed. Sts.",
     "nameCn": "密克罗尼西亚联邦",
-    "population": 116.25,
-    "birthRate": 23,
+    "population": 113.683,
+    "birthRate": 22.137,
     "position": [
       158.09,
       6.55
@@ -2246,8 +2246,8 @@
   "ME": {
     "nameEn": "Montenegro",
     "nameCn": "黑山",
-    "population": 620.17,
-    "birthRate": 11,
+    "population": 632.729,
+    "birthRate": 11.014,
     "position": [
       19.37439,
       42.708678
@@ -2257,8 +2257,8 @@
   "NC": {
     "nameEn": "New Caledonia",
     "nameCn": "新喀里多尼亚",
-    "population": 272.62,
-    "birthRate": 14,
+    "population": 295.333,
+    "birthRate": 13.776,
     "position": [
       165.618042,
       -20.904305
@@ -2268,8 +2268,8 @@
   "MK": {
     "nameEn": "North Macedonia",
     "nameCn": "北马其顿",
-    "population": 2065.09,
-    "birthRate": 9,
+    "population": 1813.791,
+    "birthRate": 8.994,
     "position": [
       21.745275,
       41.608635
@@ -2279,8 +2279,8 @@
   "PW": {
     "nameEn": "Palau",
     "nameCn": "帕劳",
-    "population": 18.17,
-    "birthRate": 11,
+    "population": 17.663,
+    "birthRate": 10.553,
     "position": [
       134.28,
       7.2
@@ -2290,8 +2290,8 @@
   "RW": {
     "nameEn": "Rwanda",
     "nameCn": "卢旺达",
-    "population": 13276.52,
-    "birthRate": 31,
+    "population": 14569.34,
+    "birthRate": 27.737,
     "position": [
       29.873888,
       -1.940278
@@ -2301,8 +2301,8 @@
   "SS": {
     "nameEn": "South Sudan",
     "nameCn": "南苏丹",
-    "population": 11381.38,
-    "birthRate": 34,
+    "population": 12188.788,
+    "birthRate": 29.348,
     "position": [
       31.3069788,
       6.876991899999999
@@ -2312,8 +2312,8 @@
   "KN": {
     "nameEn": "St. Kitts and Nevis",
     "nameCn": "圣基茨和尼维斯",
-    "population": 53.55,
-    "birthRate": 11,
+    "population": 46.922,
+    "birthRate": 11.461,
     "position": [
       -62.43,
       17.17
@@ -2323,8 +2323,8 @@
   "VC": {
     "nameEn": "St. Vincent and the Grenadines",
     "nameCn": "圣文森特和格林纳丁斯",
-    "population": 111.27,
-    "birthRate": 14,
+    "population": 99.924,
+    "birthRate": 11.8,
     "position": [
       -61.1,
       13.1
@@ -2334,8 +2334,8 @@
   "VI": {
     "nameEn": "Virgin Islands (U.S.)",
     "nameCn": "美属维尔京群岛",
-    "population": 105.87,
-    "birthRate": 12,
+    "population": 84.138,
+    "birthRate": 10.979,
     "position": [
       -64.56,
       18.21
@@ -2345,8 +2345,8 @@
   "TL": {
     "nameEn": "Timor-Leste",
     "nameCn": "东帝汶",
-    "population": 1343.88,
-    "birthRate": 29,
+    "population": 1418.517,
+    "birthRate": 21.602,
     "position": [
       125.727539,
       -8.874217
@@ -2356,8 +2356,8 @@
   "VU": {
     "nameEn": "Vanuatu",
     "nameCn": "瓦努阿图",
-    "population": 314.46,
-    "birthRate": 29,
+    "population": 335.169,
+    "birthRate": 27.208,
     "position": [
       166.959158,
       -15.376706
@@ -2367,8 +2367,8 @@
   "TW": {
     "nameEn": "Taiwan",
     "nameCn": "台湾（中国）",
-    "population": 23186.28,
-    "birthRate": 8.39,
+    "population": 23112.793,
+    "birthRate": 5.422,
     "position": [
       120.967428,
       23.880654

@@ -1,1500 +1,1946 @@
 [
   {
-    "country": "Afghanistan",
-    "name": "阿富汗",
-    "population": 41.1,
-    "birthRate": 36,
-    "birthRatePercentage": 0.009256878374903575
-  },
-  {
-    "country": "Albania",
-    "name": "阿尔巴尼亚",
-    "population": 2.8,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Algeria",
-    "name": "阿尔及利亚",
-    "population": 44.9,
-    "birthRate": 22,
-    "birthRatePercentage": 0.00565698122910774
-  },
-  {
-    "country": "American Samoa",
-    "name": "美属萨摩亚",
-    "population": 0,
-    "birthRate": null,
-    "birthRatePercentage": 0
-  },
-  {
     "country": "Andorra",
     "name": "安道尔",
-    "population": 0.1,
-    "birthRate": null,
-    "birthRatePercentage": 0
-  },
-  {
-    "country": "Angola",
-    "name": "安哥拉",
-    "population": 35.6,
-    "birthRate": 39,
-    "birthRatePercentage": 0.010028284906145539
-  },
-  {
-    "country": "Antigua and Barbuda",
-    "name": "安提瓜和巴布达",
-    "population": 0.1,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Argentina",
-    "name": "阿根廷",
-    "population": 46.2,
-    "birthRate": 14,
-    "birthRatePercentage": 0.0035998971457958345
-  },
-  {
-    "country": "Armenia",
-    "name": "亚美尼亚",
-    "population": 2.8,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Aruba",
-    "name": "阿鲁巴",
-    "population": 0.1,
-    "birthRate": 7,
-    "birthRatePercentage": 0.0017999485728979173
-  },
-  {
-    "country": "Australia",
-    "name": "澳大利亚",
-    "population": 26,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Austria",
-    "name": "奥地利",
-    "population": 9,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Azerbaijan",
-    "name": "阿塞拜疆",
-    "population": 10.1,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Bahamas, The",
-    "name": "巴哈马",
-    "population": 0.4,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Bahrain",
-    "name": "巴林",
-    "population": 1.5,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Bangladesh",
-    "name": "孟加拉国",
-    "population": 171.2,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Barbados",
-    "name": "巴巴多斯",
-    "population": 0.3,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Belarus",
-    "name": "白俄罗斯",
-    "population": 9.2,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Belgium",
-    "name": "比利时",
-    "population": 11.7,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Belize",
-    "name": "伯利兹",
-    "population": 0.4,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Benin",
-    "name": "贝宁",
-    "population": 13.4,
-    "birthRate": 37,
-    "birthRatePercentage": 0.009514013885317562
-  },
-  {
-    "country": "Bermuda",
-    "name": "百慕大",
-    "population": 0.1,
-    "birthRate": 8,
-    "birthRatePercentage": 0.0020570840833119054
-  },
-  {
-    "country": "Bhutan",
-    "name": "不丹",
-    "population": 0.8,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Bolivia",
-    "name": "玻利维亚",
-    "population": 12.2,
-    "birthRate": 22,
-    "birthRatePercentage": 0.00565698122910774
-  },
-  {
-    "country": "Bosnia and Herzegovina",
-    "name": "波斯尼亚和黑塞哥维那",
-    "population": 3.2,
-    "birthRate": 8,
-    "birthRatePercentage": 0.0020570840833119054
-  },
-  {
-    "country": "Botswana",
-    "name": "博茨瓦纳",
-    "population": 2.6,
-    "birthRate": 24,
-    "birthRatePercentage": 0.0061712522499357166
-  },
-  {
-    "country": "Brazil",
-    "name": "巴西",
-    "population": 215.3,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Brunei Darussalam",
-    "name": "文莱",
-    "population": 0.4,
-    "birthRate": 14,
-    "birthRatePercentage": 0.0035998971457958345
-  },
-  {
-    "country": "Bulgaria",
-    "name": "保加利亚",
-    "population": 6.5,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Burkina Faso",
-    "name": "布基纳法索",
-    "population": 22.7,
-    "birthRate": 36,
-    "birthRatePercentage": 0.009256878374903575
-  },
-  {
-    "country": "Burundi",
-    "name": "布隆迪",
-    "population": 12.9,
-    "birthRate": 35,
-    "birthRatePercentage": 0.008999742864489586
-  },
-  {
-    "country": "Cabo Verde",
-    "name": "佛得角",
-    "population": 0.6,
-    "birthRate": 17,
-    "birthRatePercentage": 0.004371303677037799
-  },
-  {
-    "country": "Cambodia",
-    "name": "柬埔寨",
-    "population": 16.8,
-    "birthRate": 19,
-    "birthRatePercentage": 0.004885574697865775
-  },
-  {
-    "country": "Cameroon",
-    "name": "喀麦隆",
-    "population": 27.9,
-    "birthRate": 35,
-    "birthRatePercentage": 0.008999742864489586
-  },
-  {
-    "country": "Canada",
-    "name": "加拿大",
-    "population": 38.9,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Cayman Islands",
-    "name": "开曼群岛",
-    "population": 0.1,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Central African Republic",
-    "name": "中非共和国",
-    "population": 5.6,
-    "birthRate": 43,
-    "birthRatePercentage": 0.01105682694780149
-  },
-  {
-    "country": "Chad",
-    "name": "乍得",
-    "population": 17.7,
-    "birthRate": 43,
-    "birthRatePercentage": 0.01105682694780149
-  },
-  {
-    "country": "Channel Islands",
-    "name": "海峡群岛",
-    "population": 0.2,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Chile",
-    "name": "智利",
-    "population": 19.6,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "China",
-    "name": "中国",
-    "population": 1412.2,
-    "birthRate": 8,
-    "birthRatePercentage": 0.0020570840833119054
-  },
-  {
-    "country": "Hong Kong SAR, China",
-    "name": "中国香港特别行政区",
-    "population": 7.3,
-    "birthRate": 5,
-    "birthRatePercentage": 0.0012856775520699408
-  },
-  {
-    "country": "Macao SAR, China",
-    "name": "中国澳门特别行政区",
-    "population": 0.7,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Colombia",
-    "name": "哥伦比亚",
-    "population": 51.9,
-    "birthRate": 14,
-    "birthRatePercentage": 0.0035998971457958345
-  },
-  {
-    "country": "Comoros",
-    "name": "科摩罗",
-    "population": 0.8,
-    "birthRate": 29,
-    "birthRatePercentage": 0.007456929802005657
-  },
-  {
-    "country": "Congo, Dem. Rep.",
-    "name": "刚果民主共和国",
-    "population": 99,
-    "birthRate": 42,
-    "birthRatePercentage": 0.010799691437387503
-  },
-  {
-    "country": "Congo, Rep.",
-    "name": "刚果共和国",
-    "population": 6,
-    "birthRate": 31,
-    "birthRatePercentage": 0.007971200822833634
-  },
-  {
-    "country": "Costa Rica",
-    "name": "哥斯达黎加",
-    "population": 5.2,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Cote d'Ivoire",
-    "name": "科特迪瓦",
-    "population": 28.2,
-    "birthRate": 34,
-    "birthRatePercentage": 0.008742607354075598
-  },
-  {
-    "country": "Croatia",
-    "name": "克罗地亚",
-    "population": 3.9,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Cuba",
-    "name": "古巴",
-    "population": 11.2,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Curacao",
-    "name": "库拉索",
-    "population": 0.1,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Cyprus",
-    "name": "塞浦路斯",
-    "population": 1.3,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Czechia",
-    "name": "捷克",
-    "population": 10.7,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Denmark",
-    "name": "丹麦",
-    "population": 5.9,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Djibouti",
-    "name": "吉布提",
-    "population": 1.1,
-    "birthRate": 22,
-    "birthRatePercentage": 0.00565698122910774
-  },
-  {
-    "country": "Dominica",
-    "name": "多米尼克",
-    "population": 0.1,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Dominican Republic",
-    "name": "多米尼加共和国",
-    "population": 11.2,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Ecuador",
-    "name": "厄瓜多尔",
-    "population": 18,
-    "birthRate": 17,
-    "birthRatePercentage": 0.004371303677037799
-  },
-  {
-    "country": "Egypt, Arab Rep.",
-    "name": "埃及",
-    "population": 111,
-    "birthRate": 23,
-    "birthRatePercentage": 0.005914116739521728
-  },
-  {
-    "country": "El Salvador",
-    "name": "萨尔瓦多",
-    "population": 6.3,
-    "birthRate": 16,
-    "birthRatePercentage": 0.004114168166623811
-  },
-  {
-    "country": "Equatorial Guinea",
-    "name": "赤道几内亚",
-    "population": 1.7,
-    "birthRate": 30,
-    "birthRatePercentage": 0.007714065312419645
-  },
-  {
-    "country": "Eritrea",
-    "name": "厄立特里亚",
-    "population": 3.7,
-    "birthRate": 29,
-    "birthRatePercentage": 0.007456929802005657
-  },
-  {
-    "country": "Estonia",
-    "name": "爱沙尼亚",
-    "population": 1.3,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Eswatini",
-    "name": "斯威士兰",
-    "population": 1.2,
-    "birthRate": 24,
-    "birthRatePercentage": 0.0061712522499357166
-  },
-  {
-    "country": "Ethiopia",
-    "name": "埃塞俄比亚",
-    "population": 123.4,
-    "birthRate": 32,
-    "birthRatePercentage": 0.008228336333247621
-  },
-  {
-    "country": "Faroe Islands",
-    "name": "法罗群岛",
-    "population": 0.1,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Fiji",
-    "name": "斐济",
-    "population": 0.9,
-    "birthRate": 19,
-    "birthRatePercentage": 0.004885574697865775
-  },
-  {
-    "country": "Finland",
-    "name": "芬兰",
-    "population": 5.6,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "France",
-    "name": "法国",
-    "population": 68,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "French Polynesia",
-    "name": "法属波利尼西亚",
-    "population": 0.3,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Gabon",
-    "name": "加蓬",
-    "population": 2.4,
-    "birthRate": 27,
-    "birthRatePercentage": 0.006942658781177681
-  },
-  {
-    "country": "Gambia, The",
-    "name": "冈比亚",
-    "population": 2.7,
-    "birthRate": 33,
-    "birthRatePercentage": 0.008485471843661609
-  },
-  {
-    "country": "Georgia",
-    "name": "格鲁吉亚",
-    "population": 3.7,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Germany",
-    "name": "德国",
-    "population": 83.8,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Ghana",
-    "name": "加纳",
-    "population": 33.5,
-    "birthRate": 28,
-    "birthRatePercentage": 0.007199794291591669
-  },
-  {
-    "country": "Greece",
-    "name": "希腊",
-    "population": 10.4,
-    "birthRate": 8,
-    "birthRatePercentage": 0.0020570840833119054
-  },
-  {
-    "country": "Greenland",
-    "name": "格陵兰",
-    "population": 0.1,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Grenada",
-    "name": "格林纳达",
-    "population": 0.1,
-    "birthRate": 16,
-    "birthRatePercentage": 0.004114168166623811
-  },
-  {
-    "country": "Guam",
-    "name": "关岛",
-    "population": 0.2,
-    "birthRate": 16,
-    "birthRatePercentage": 0.004114168166623811
-  },
-  {
-    "country": "Guatemala",
-    "name": "危地马拉",
-    "population": 17.4,
-    "birthRate": 21,
-    "birthRatePercentage": 0.0053998457186937516
-  },
-  {
-    "country": "Guinea",
-    "name": "几内亚",
-    "population": 13.9,
-    "birthRate": 34,
-    "birthRatePercentage": 0.008742607354075598
-  },
-  {
-    "country": "Guinea-Bissau",
-    "name": "几内亚比绍",
-    "population": 2.1,
-    "birthRate": 31,
-    "birthRatePercentage": 0.007971200822833634
-  },
-  {
-    "country": "Guyana",
-    "name": "圭亚那",
-    "population": 0.8,
-    "birthRate": 20,
-    "birthRatePercentage": 0.005142710208279763
-  },
-  {
-    "country": "Haiti",
-    "name": "海地",
-    "population": 11.6,
-    "birthRate": 23,
-    "birthRatePercentage": 0.005914116739521728
-  },
-  {
-    "country": "Honduras",
-    "name": "洪都拉斯",
-    "population": 10.4,
-    "birthRate": 21,
-    "birthRatePercentage": 0.0053998457186937516
-  },
-  {
-    "country": "Hungary",
-    "name": "匈牙利",
-    "population": 9.6,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Iceland",
-    "name": "冰岛",
-    "population": 0.4,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "India",
-    "name": "印度",
-    "population": 1417.2,
-    "birthRate": 16,
-    "birthRatePercentage": 0.004114168166623811
-  },
-  {
-    "country": "Indonesia",
-    "name": "印度尼西亚",
-    "population": 275.5,
-    "birthRate": 16,
-    "birthRatePercentage": 0.004114168166623811
-  },
-  {
-    "country": "Iran, Islamic Rep.",
-    "name": "伊朗",
-    "population": 88.6,
-    "birthRate": 14,
-    "birthRatePercentage": 0.0035998971457958345
-  },
-  {
-    "country": "Iraq",
-    "name": "伊拉克",
-    "population": 44.5,
-    "birthRate": 27,
-    "birthRatePercentage": 0.006942658781177681
-  },
-  {
-    "country": "Ireland",
-    "name": "爱尔兰",
-    "population": 5.1,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Isle of Man",
-    "name": "马恩岛",
-    "population": 0.1,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Israel",
-    "name": "以色列",
-    "population": 9.6,
-    "birthRate": 20,
-    "birthRatePercentage": 0.005142710208279763
-  },
-  {
-    "country": "Italy",
-    "name": "意大利",
-    "population": 58.9,
-    "birthRate": 7,
-    "birthRatePercentage": 0.0017999485728979173
-  },
-  {
-    "country": "Jamaica",
-    "name": "牙买加",
-    "population": 2.8,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Japan",
-    "name": "日本",
-    "population": 125.1,
-    "birthRate": 7,
-    "birthRatePercentage": 0.0017999485728979173
-  },
-  {
-    "country": "Jordan",
-    "name": "约旦",
-    "population": 11.3,
-    "birthRate": 22,
-    "birthRatePercentage": 0.00565698122910774
-  },
-  {
-    "country": "Kazakhstan",
-    "name": "哈萨克斯坦",
-    "population": 19.6,
-    "birthRate": 24,
-    "birthRatePercentage": 0.0061712522499357166
-  },
-  {
-    "country": "Kenya",
-    "name": "肯尼亚",
-    "population": 54,
-    "birthRate": 28,
-    "birthRatePercentage": 0.007199794291591669
-  },
-  {
-    "country": "Kiribati",
-    "name": "基里巴斯",
-    "population": 0.1,
-    "birthRate": 27,
-    "birthRatePercentage": 0.006942658781177681
-  },
-  {
-    "country": "Korea, Dem. People's Rep.",
-    "name": "朝鲜",
-    "population": 26.1,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Korea, Rep.",
-    "name": "韩国",
-    "population": 51.6,
-    "birthRate": 5,
-    "birthRatePercentage": 0.0012856775520699408
-  },
-  {
-    "country": "Kosovo",
-    "name": "科索沃",
-    "population": 1.8,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Kuwait",
-    "name": "科威特",
-    "population": 4.3,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Kyrgyz Republic",
-    "name": "吉尔吉斯斯坦",
-    "population": 7,
-    "birthRate": 22,
-    "birthRatePercentage": 0.00565698122910774
-  },
-  {
-    "country": "Lao PDR",
-    "name": "老挝",
-    "population": 7.5,
-    "birthRate": 22,
-    "birthRatePercentage": 0.00565698122910774
-  },
-  {
-    "country": "Latvia",
-    "name": "拉脱维亚",
-    "population": 1.9,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Lebanon",
-    "name": "黎巴嫩",
-    "population": 5.5,
-    "birthRate": 15,
-    "birthRatePercentage": 0.0038570326562098224
-  },
-  {
-    "country": "Lesotho",
-    "name": "莱索托",
-    "population": 2.3,
-    "birthRate": 26,
-    "birthRatePercentage": 0.006685523270763692
-  },
-  {
-    "country": "Liberia",
-    "name": "利比里亚",
-    "population": 5.3,
-    "birthRate": 31,
-    "birthRatePercentage": 0.007971200822833634
-  },
-  {
-    "country": "Libya",
-    "name": "利比亚",
-    "population": 6.8,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Liechtenstein",
-    "name": "列支敦士登",
-    "population": 0,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Lithuania",
-    "name": "立陶宛",
-    "population": 2.8,
-    "birthRate": 8,
-    "birthRatePercentage": 0.0020570840833119054
-  },
-  {
-    "country": "Luxembourg",
-    "name": "卢森堡",
-    "population": 0.7,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Madagascar",
-    "name": "马达加斯加",
-    "population": 29.6,
-    "birthRate": 31,
-    "birthRatePercentage": 0.007971200822833634
-  },
-  {
-    "country": "Malawi",
-    "name": "马拉维",
-    "population": 20.4,
-    "birthRate": 33,
-    "birthRatePercentage": 0.008485471843661609
-  },
-  {
-    "country": "Malaysia",
-    "name": "马来西亚",
-    "population": 33.9,
-    "birthRate": 15,
-    "birthRatePercentage": 0.0038570326562098224
-  },
-  {
-    "country": "Maldives",
-    "name": "马尔代夫",
-    "population": 0.5,
-    "birthRate": 14,
-    "birthRatePercentage": 0.0035998971457958345
-  },
-  {
-    "country": "Mali",
-    "name": "马里",
-    "population": 22.6,
-    "birthRate": 42,
-    "birthRatePercentage": 0.010799691437387503
-  },
-  {
-    "country": "Malta",
-    "name": "马耳他",
-    "population": 0.5,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Marshall Islands",
-    "name": "马绍尔群岛",
-    "population": 0,
-    "birthRate": 19,
-    "birthRatePercentage": 0.004885574697865775
-  },
-  {
-    "country": "Mauritania",
-    "name": "毛里塔尼亚",
-    "population": 4.7,
-    "birthRate": 33,
-    "birthRatePercentage": 0.008485471843661609
-  },
-  {
-    "country": "Mauritius",
-    "name": "毛里求斯",
-    "population": 1.3,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Mexico",
-    "name": "墨西哥",
-    "population": 127.5,
-    "birthRate": 15,
-    "birthRatePercentage": 0.0038570326562098224
-  },
-  {
-    "country": "Micronesia, Fed. Sts.",
-    "name": "密克罗尼西亚联邦",
-    "population": 0.1,
-    "birthRate": 21,
-    "birthRatePercentage": 0.0053998457186937516
-  },
-  {
-    "country": "Moldova",
-    "name": "摩尔多瓦",
-    "population": 2.5,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Monaco",
-    "name": "摩纳哥",
-    "population": 0,
-    "birthRate": null,
-    "birthRatePercentage": 0
-  },
-  {
-    "country": "Mongolia",
-    "name": "蒙古",
-    "population": 3.4,
-    "birthRate": 21,
-    "birthRatePercentage": 0.0053998457186937516
-  },
-  {
-    "country": "Montenegro",
-    "name": "黑山",
-    "population": 0.6,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Morocco",
-    "name": "摩洛哥",
-    "population": 37.5,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Mozambique",
-    "name": "莫桑比克",
-    "population": 33,
-    "birthRate": 37,
-    "birthRatePercentage": 0.009514013885317562
-  },
-  {
-    "country": "Myanmar",
-    "name": "缅甸",
-    "population": 54.2,
-    "birthRate": 17,
-    "birthRatePercentage": 0.004371303677037799
-  },
-  {
-    "country": "Namibia",
-    "name": "纳米比亚",
-    "population": 2.6,
-    "birthRate": 27,
-    "birthRatePercentage": 0.006942658781177681
-  },
-  {
-    "country": "Nepal",
-    "name": "尼泊尔",
-    "population": 30.5,
-    "birthRate": 20,
-    "birthRatePercentage": 0.005142710208279763
-  },
-  {
-    "country": "Netherlands",
-    "name": "荷兰",
-    "population": 17.7,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "New Caledonia",
-    "name": "新喀里多尼亚",
-    "population": 0.3,
-    "birthRate": 14,
-    "birthRatePercentage": 0.0035998971457958345
-  },
-  {
-    "country": "New Zealand",
-    "name": "新西兰",
-    "population": 5.1,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Nicaragua",
-    "name": "尼加拉瓜",
-    "population": 6.9,
-    "birthRate": 21,
-    "birthRatePercentage": 0.0053998457186937516
-  },
-  {
-    "country": "Niger",
-    "name": "尼日尔",
-    "population": 26.2,
-    "birthRate": 45,
-    "birthRatePercentage": 0.011571097968629467
-  },
-  {
-    "country": "Nigeria",
-    "name": "尼日利亚",
-    "population": 218.5,
-    "birthRate": 37,
-    "birthRatePercentage": 0.009514013885317562
-  },
-  {
-    "country": "North Macedonia",
-    "name": "北马其顿",
-    "population": 2.1,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Northern Mariana Islands",
-    "name": "北马里亚纳群岛",
-    "population": 0,
-    "birthRate": null,
-    "birthRatePercentage": 0
-  },
-  {
-    "country": "Norway",
-    "name": "挪威",
-    "population": 5.5,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Oman",
-    "name": "阿曼",
-    "population": 4.6,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Pakistan",
-    "name": "巴基斯坦",
-    "population": 235.8,
-    "birthRate": 28,
-    "birthRatePercentage": 0.007199794291591669
-  },
-  {
-    "country": "Palau",
-    "name": "帕劳",
-    "population": 0,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Panama",
-    "name": "巴拿马",
-    "population": 4.4,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Papua New Guinea",
-    "name": "巴布亚新几内亚",
-    "population": 10.1,
-    "birthRate": 26,
-    "birthRatePercentage": 0.006685523270763692
-  },
-  {
-    "country": "Paraguay",
-    "name": "巴拉圭",
-    "population": 6.8,
-    "birthRate": 21,
-    "birthRatePercentage": 0.0053998457186937516
-  },
-  {
-    "country": "Peru",
-    "name": "秘鲁",
-    "population": 34,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Philippines",
-    "name": "菲律宾",
-    "population": 115.6,
-    "birthRate": 22,
-    "birthRatePercentage": 0.00565698122910774
-  },
-  {
-    "country": "Poland",
-    "name": "波兰",
-    "population": 36.8,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Portugal",
-    "name": "葡萄牙",
-    "population": 10.4,
-    "birthRate": 8,
-    "birthRatePercentage": 0.0020570840833119054
-  },
-  {
-    "country": "Puerto Rico",
-    "name": "波多黎各",
-    "population": 3.2,
-    "birthRate": 6,
-    "birthRatePercentage": 0.0015428130624839291
-  },
-  {
-    "country": "Qatar",
-    "name": "卡塔尔",
-    "population": 2.7,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Romania",
-    "name": "罗马尼亚",
-    "population": 19,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Russian Federation",
-    "name": "俄罗斯",
-    "population": 144.2,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Rwanda",
-    "name": "卢旺达",
-    "population": 13.8,
-    "birthRate": 30,
-    "birthRatePercentage": 0.007714065312419645
-  },
-  {
-    "country": "Samoa",
-    "name": "萨摩亚",
-    "population": 0.2,
-    "birthRate": 27,
-    "birthRatePercentage": 0.006942658781177681
-  },
-  {
-    "country": "San Marino",
-    "name": "圣马力诺",
-    "population": 0,
-    "birthRate": 6,
-    "birthRatePercentage": 0.0015428130624839291
-  },
-  {
-    "country": "Sao Tome and Principe",
-    "name": "圣多美和普林西比",
-    "population": 0.2,
-    "birthRate": 28,
-    "birthRatePercentage": 0.007199794291591669
-  },
-  {
-    "country": "Saudi Arabia",
-    "name": "沙特阿拉伯",
-    "population": 36.4,
-    "birthRate": 17,
-    "birthRatePercentage": 0.004371303677037799
-  },
-  {
-    "country": "Senegal",
-    "name": "塞内加尔",
-    "population": 17.3,
-    "birthRate": 33,
-    "birthRatePercentage": 0.008485471843661609
-  },
-  {
-    "country": "Serbia",
-    "name": "塞尔维亚",
-    "population": 6.7,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Seychelles",
-    "name": "塞舌尔",
-    "population": 0.1,
-    "birthRate": 17,
-    "birthRatePercentage": 0.004371303677037799
-  },
-  {
-    "country": "Sierra Leone",
-    "name": "塞拉利昂",
-    "population": 8.6,
-    "birthRate": 31,
-    "birthRatePercentage": 0.007971200822833634
-  },
-  {
-    "country": "Singapore",
-    "name": "新加坡",
-    "population": 5.6,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Sint Maarten (Dutch part)",
-    "name": "荷属圣马丁",
-    "population": 0,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Slovak Republic",
-    "name": "斯洛伐克",
-    "population": 5.4,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Slovenia",
-    "name": "斯洛文尼亚",
-    "population": 2.1,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Solomon Islands",
-    "name": "所罗门群岛",
-    "population": 0.7,
-    "birthRate": 30,
-    "birthRatePercentage": 0.007714065312419645
-  },
-  {
-    "country": "Somalia",
-    "name": "索马里",
-    "population": 17.6,
-    "birthRate": 44,
-    "birthRatePercentage": 0.01131396245821548
-  },
-  {
-    "country": "South Africa",
-    "name": "南非",
-    "population": 59.9,
-    "birthRate": 20,
-    "birthRatePercentage": 0.005142710208279763
-  },
-  {
-    "country": "South Sudan",
-    "name": "南苏丹",
-    "population": 10.9,
-    "birthRate": 29,
-    "birthRatePercentage": 0.007456929802005657
-  },
-  {
-    "country": "Spain",
-    "name": "西班牙",
-    "population": 47.8,
-    "birthRate": 7,
-    "birthRatePercentage": 0.0017999485728979173
-  },
-  {
-    "country": "Sri Lanka",
-    "name": "斯里兰卡",
-    "population": 22.2,
-    "birthRate": 14,
-    "birthRatePercentage": 0.0035998971457958345
-  },
-  {
-    "country": "St. Kitts and Nevis",
-    "name": "圣基茨和尼维斯",
-    "population": 0,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "St. Lucia",
-    "name": "圣卢西亚",
-    "population": 0.2,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "St. Martin (French part)",
-    "name": "法属圣马丁",
-    "population": 0,
-    "birthRate": 15,
-    "birthRatePercentage": 0.0038570326562098224
-  },
-  {
-    "country": "St. Vincent and the Grenadines",
-    "name": "圣文森特和格林纳丁斯",
-    "population": 0.1,
-    "birthRate": 13,
-    "birthRatePercentage": 0.003342761635381846
-  },
-  {
-    "country": "Sudan",
-    "name": "苏丹",
-    "population": 46.9,
-    "birthRate": 34,
-    "birthRatePercentage": 0.008742607354075598
-  },
-  {
-    "country": "Suriname",
-    "name": "苏里南",
-    "population": 0.6,
-    "birthRate": 18,
-    "birthRatePercentage": 0.004628439187451787
-  },
-  {
-    "country": "Sweden",
-    "name": "瑞典",
-    "population": 10.5,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
-  },
-  {
-    "country": "Switzerland",
-    "name": "瑞士",
-    "population": 8.8,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
-  },
-  {
-    "country": "Syrian Arab Republic",
-    "name": "叙利亚",
-    "population": 22.1,
-    "birthRate": 20,
-    "birthRatePercentage": 0.005142710208279763
-  },
-  {
-    "country": "Tajikistan",
-    "name": "塔吉克斯坦",
-    "population": 10,
-    "birthRate": 27,
-    "birthRatePercentage": 0.006942658781177681
-  },
-  {
-    "country": "Tanzania",
-    "name": "坦桑尼亚",
-    "population": 65.5,
-    "birthRate": 36,
-    "birthRatePercentage": 0.009256878374903575
-  },
-  {
-    "country": "Thailand",
-    "name": "泰国",
-    "population": 71.7,
-    "birthRate": 9,
-    "birthRatePercentage": 0.0023142195937258937
-  },
-  {
-    "country": "Timor-Leste",
-    "name": "东帝汶",
-    "population": 1.3,
-    "birthRate": 25,
-    "birthRatePercentage": 0.006428387760349704
-  },
-  {
-    "country": "Togo",
-    "name": "多哥",
-    "population": 8.8,
-    "birthRate": 32,
-    "birthRatePercentage": 0.008228336333247621
-  },
-  {
-    "country": "Tonga",
-    "name": "汤加",
-    "population": 0.1,
-    "birthRate": 23,
-    "birthRatePercentage": 0.005914116739521728
-  },
-  {
-    "country": "Trinidad and Tobago",
-    "name": "特立尼达和多巴哥",
-    "population": 1.5,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Tunisia",
-    "name": "突尼斯",
-    "population": 12.4,
-    "birthRate": 16,
-    "birthRatePercentage": 0.004114168166623811
-  },
-  {
-    "country": "Turkiye",
-    "name": "土耳其",
-    "population": 85,
-    "birthRate": 15,
-    "birthRatePercentage": 0.0038570326562098224
-  },
-  {
-    "country": "Turkmenistan",
-    "name": "土库曼斯坦",
-    "population": 6.4,
-    "birthRate": 22,
-    "birthRatePercentage": 0.00565698122910774
-  },
-  {
-    "country": "Turks and Caicos Islands",
-    "name": "特克斯和凯科斯群岛",
-    "population": 0,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "Tuvalu",
-    "name": "图瓦卢",
-    "population": 0,
-    "birthRate": 23,
-    "birthRatePercentage": 0.005914116739521728
-  },
-  {
-    "country": "Uganda",
-    "name": "乌干达",
-    "population": 47.2,
-    "birthRate": 37,
-    "birthRatePercentage": 0.009514013885317562
-  },
-  {
-    "country": "Ukraine",
-    "name": "乌克兰",
-    "population": 38,
-    "birthRate": 7,
-    "birthRatePercentage": 0.0017999485728979173
+    "year": 2025,
+    "population": 0.082904,
+    "birthRate": 6.854,
+    "births": 568,
+    "birthRatePercentage": 0.000004291531728971396
   },
   {
     "country": "United Arab Emirates",
     "name": "阿拉伯联合酋长国",
-    "population": 9.4,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
+    "year": 2025,
+    "population": 11.346,
+    "birthRate": 10.052,
+    "births": 114046,
+    "birthRatePercentage": 0.0008616761048631546
+  },
+  {
+    "country": "Afghanistan",
+    "name": "阿富汗",
+    "year": 2025,
+    "population": 43.844112,
+    "birthRate": 34.391,
+    "births": 1507838,
+    "birthRatePercentage": 0.011392490526670374
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "name": "安提瓜和巴布达",
+    "year": 2025,
+    "population": 0.094208,
+    "birthRate": 11.577,
+    "births": 1091,
+    "birthRatePercentage": 0.000008243065345612312
+  },
+  {
+    "country": "Albania",
+    "name": "阿尔巴尼亚",
+    "year": 2025,
+    "population": 2.771508,
+    "birthRate": 9.898,
+    "births": 27433,
+    "birthRatePercentage": 0.00020727040479026816
+  },
+  {
+    "country": "Armenia",
+    "name": "亚美尼亚",
+    "year": 2025,
+    "population": 2.952365,
+    "birthRate": 11.833,
+    "births": 34934,
+    "birthRatePercentage": 0.00026394431235895555
+  },
+  {
+    "country": "Bhutan",
+    "name": "不丹",
+    "year": 2025,
+    "population": 0.796682,
+    "birthRate": 12.346,
+    "births": 9836,
+    "birthRatePercentage": 0.00007431603184183566
+  },
+  {
+    "country": "Cabo Verde",
+    "name": "佛得角",
+    "year": 2025,
+    "population": 0.527326,
+    "birthRate": 12.069,
+    "births": 6364,
+    "birthRatePercentage": 0.000048083288597137263
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "name": "波斯尼亚和黑塞哥维那",
+    "year": 2025,
+    "population": 3.140096,
+    "birthRate": 7.725,
+    "births": 24258,
+    "birthRatePercentage": 0.00018328164908695095
+  },
+  {
+    "country": "Aruba",
+    "name": "阿鲁巴",
+    "year": 2025,
+    "population": 0.108147,
+    "birthRate": 9.458,
+    "births": 1023,
+    "birthRatePercentage": 0.00000772929042031292
+  },
+  {
+    "country": "Angola",
+    "name": "安哥拉",
+    "year": 2025,
+    "population": 39.040039,
+    "birthRate": 36.624,
+    "births": 1429803,
+    "birthRatePercentage": 0.010802896022321285
+  },
+  {
+    "country": "Argentina",
+    "name": "阿根廷",
+    "year": 2025,
+    "population": 45.851378,
+    "birthRate": 11.081,
+    "births": 508067,
+    "birthRatePercentage": 0.003838707131942448
+  },
+  {
+    "country": "Austria",
+    "name": "奥地利",
+    "year": 2025,
+    "population": 9.113574,
+    "birthRate": 8.271,
+    "births": 75378,
+    "birthRatePercentage": 0.0005695195046943766
+  },
+  {
+    "country": "Australia",
+    "name": "澳大利亚",
+    "year": 2025,
+    "population": 26.974026,
+    "birthRate": 11.282,
+    "births": 304326,
+    "birthRatePercentage": 0.0022993392340685723
+  },
+  {
+    "country": "Azerbaijan",
+    "name": "阿塞拜疆",
+    "year": 2025,
+    "population": 10.397713,
+    "birthRate": 11.55,
+    "births": 120097,
+    "birthRatePercentage": 0.0009073945177011933
+  },
+  {
+    "country": "Barbados",
+    "name": "巴巴多斯",
+    "year": 2025,
+    "population": 0.282623,
+    "birthRate": 11.044,
+    "births": 3121,
+    "birthRatePercentage": 0.00002358075796852065
+  },
+  {
+    "country": "Bangladesh",
+    "name": "孟加拉国",
+    "year": 2025,
+    "population": 175.6869,
+    "birthRate": 19.587,
+    "births": 3441259,
+    "birthRatePercentage": 0.026000479200895033
+  },
+  {
+    "country": "Belgium",
+    "name": "比利时",
+    "year": 2025,
+    "population": 11.758603,
+    "birthRate": 8.606,
+    "births": 101192,
+    "birthRatePercentage": 0.0007645575329543548
+  },
+  {
+    "country": "Burkina Faso",
+    "name": "布基纳法索",
+    "year": 2025,
+    "population": 24.07458,
+    "birthRate": 30.808,
+    "births": 741692,
+    "birthRatePercentage": 0.005603863998458192
+  },
+  {
+    "country": "Bulgaria",
+    "name": "保加利亚",
+    "year": 2025,
+    "population": 6.71456,
+    "birthRate": 8.992,
+    "births": 60380,
+    "birthRatePercentage": 0.0004562019116114312
+  },
+  {
+    "country": "Bahrain",
+    "name": "巴林",
+    "year": 2025,
+    "population": 1.643332,
+    "birthRate": 11.926,
+    "births": 19599,
+    "birthRatePercentage": 0.0001480805111903352
+  },
+  {
+    "country": "Burundi",
+    "name": "布隆迪",
+    "year": 2025,
+    "population": 14.390002,
+    "birthRate": 32.573,
+    "births": 468720,
+    "birthRatePercentage": 0.0035414203380342833
+  },
+  {
+    "country": "Benin",
+    "name": "贝宁",
+    "year": 2025,
+    "population": 14.81446,
+    "birthRate": 33.046,
+    "births": 489564,
+    "birthRatePercentage": 0.0036989074636657616
+  },
+  {
+    "country": "Bermuda",
+    "name": "百慕大",
+    "year": 2025,
+    "population": 0.064554,
+    "birthRate": 7.821,
+    "births": 505,
+    "birthRatePercentage": 0.000003815534371708724
+  },
+  {
+    "country": "Brunei Darussalam",
+    "name": "文莱",
+    "year": 2025,
+    "population": 0.46633,
+    "birthRate": 12.999,
+    "births": 6062,
+    "birthRatePercentage": 0.00004580152348771938
+  },
+  {
+    "country": "Bolivia (Plurinational State of)",
+    "name": "玻利维亚",
+    "year": 2025,
+    "population": 12.581842,
+    "birthRate": 20.783,
+    "births": 261486,
+    "birthRatePercentage": 0.001975661031129955
+  },
+  {
+    "country": "Brazil",
+    "name": "巴西",
+    "year": 2025,
+    "population": 212.812405,
+    "birthRate": 11.882,
+    "births": 2528724,
+    "birthRatePercentage": 0.01910580859121737
+  },
+  {
+    "country": "Bahamas",
+    "name": "巴哈马",
+    "year": 2025,
+    "population": 0.403033,
+    "birthRate": 10.67,
+    "births": 4300,
+    "birthRatePercentage": 0.00003248870851157923
+  },
+  {
+    "country": "Botswana",
+    "name": "博茨瓦纳",
+    "year": 2025,
+    "population": 2.562122,
+    "birthRate": 23.881,
+    "births": 61186,
+    "birthRatePercentage": 0.00046229165557895043
+  },
+  {
+    "country": "Belarus",
+    "name": "白俄罗斯",
+    "year": 2025,
+    "population": 8.997603,
+    "birthRate": 6.928,
+    "births": 62332,
+    "birthRatePercentage": 0.0004709502741729667
+  },
+  {
+    "country": "Belize",
+    "name": "伯利兹",
+    "year": 2025,
+    "population": 0.422924,
+    "birthRate": 17.777,
+    "births": 7518,
+    "birthRatePercentage": 0.00005680235130001225
+  },
+  {
+    "country": "Canada",
+    "name": "加拿大",
+    "year": 2025,
+    "population": 40.126723,
+    "birthRate": 8.999,
+    "births": 361103,
+    "birthRatePercentage": 0.0027283186301527433
+  },
+  {
+    "country": "Cayman Islands",
+    "name": "开曼群岛",
+    "year": 2025,
+    "population": 0.075844,
+    "birthRate": 11.225,
+    "births": 851,
+    "birthRatePercentage": 0.0000064297420798497505
+  },
+  {
+    "country": "Channel Islands",
+    "name": "海峡群岛",
+    "year": 2025,
+    "population": 0.168464,
+    "birthRate": 8.156045,
+    "births": 1374,
+    "birthRatePercentage": 0.000010381275696490666
+  },
+  {
+    "country": "Central African Republic",
+    "name": "中非共和国",
+    "year": 2025,
+    "population": 5.513282,
+    "birthRate": 45.361,
+    "births": 250088,
+    "birthRatePercentage": 0.0018895432870334483
+  },
+  {
+    "country": "Congo",
+    "name": "刚果共和国",
+    "year": 2025,
+    "population": 6.484437,
+    "birthRate": 30.155,
+    "births": 195536,
+    "birthRatePercentage": 0.0014773749087256178
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "name": "刚果民主共和国",
+    "year": 2025,
+    "population": 112.832473,
+    "birthRate": 40.411,
+    "births": 4559718,
+    "birthRatePercentage": 0.034451011394651405
+  },
+  {
+    "country": "Switzerland",
+    "name": "瑞士",
+    "year": 2025,
+    "population": 8.967408,
+    "birthRate": 9.124,
+    "births": 81819,
+    "birthRatePercentage": 0.0006181845678392793
+  },
+  {
+    "country": "Croatia",
+    "name": "克罗地亚",
+    "year": 2025,
+    "population": 3.84816,
+    "birthRate": 8.054,
+    "births": 30995,
+    "birthRatePercentage": 0.00023418314425962752
+  },
+  {
+    "country": "Equatorial Guinea",
+    "name": "赤道几内亚",
+    "year": 2025,
+    "population": 1.938431,
+    "birthRate": 29.586,
+    "births": 57351,
+    "birthRatePercentage": 0.0004333162608947862
+  },
+  {
+    "country": "Comoros",
+    "name": "科摩罗",
+    "year": 2025,
+    "population": 0.882848,
+    "birthRate": 27.779,
+    "births": 24525,
+    "birthRatePercentage": 0.0001852989712201118
+  },
+  {
+    "country": "Eritrea",
+    "name": "厄立特里亚",
+    "year": 2025,
+    "population": 3.607003,
+    "birthRate": 28.632,
+    "births": 103276,
+    "birthRatePercentage": 0.0007803032233120597
+  },
+  {
+    "country": "Faroe Islands",
+    "name": "法罗群岛",
+    "year": 2025,
+    "population": 0.056002,
+    "birthRate": 12.775,
+    "births": 715,
+    "birthRatePercentage": 0.000005402192229250965
+  },
+  {
+    "country": "Chile",
+    "name": "智利",
+    "year": 2025,
+    "population": 19.859921,
+    "birthRate": 8.579,
+    "births": 170383,
+    "birthRatePercentage": 0.001287331074960094
+  },
+  {
+    "country": "Cameroon",
+    "name": "喀麦隆",
+    "year": 2025,
+    "population": 29.879337,
+    "birthRate": 32.821,
+    "births": 980661,
+    "birthRatePercentage": 0.007409397529691582
+  },
+  {
+    "country": "China",
+    "name": "中国",
+    "year": 2025,
+    "population": 1416.096094,
+    "birthRate": 6.15,
+    "births": 8709352,
+    "birthRatePercentage": 0.06580362754714875
+  },
+  {
+    "country": "Colombia",
+    "name": "哥伦比亚",
+    "year": 2025,
+    "population": 53.425635,
+    "birthRate": 12.967,
+    "births": 692792,
+    "birthRatePercentage": 0.0052343993830590695
+  },
+  {
+    "country": "Costa Rica",
+    "name": "哥斯达黎加",
+    "year": 2025,
+    "population": 5.15295,
+    "birthRate": 9.825,
+    "births": 50630,
+    "birthRatePercentage": 0.00038253565393982713
+  },
+  {
+    "country": "Czechia",
+    "name": "捷克",
+    "year": 2025,
+    "population": 10.60924,
+    "birthRate": 8.193,
+    "births": 86926,
+    "birthRatePercentage": 0.0006567705758319852
+  },
+  {
+    "country": "Cuba",
+    "name": "古巴",
+    "year": 2025,
+    "population": 10.937204,
+    "birthRate": 8.549,
+    "births": 93499,
+    "birthRatePercentage": 0.0007064329667730573
+  },
+  {
+    "country": "Curaçao",
+    "name": "库拉索",
+    "year": 2025,
+    "population": 0.185487,
+    "birthRate": 7.538,
+    "births": 1398,
+    "birthRatePercentage": 0.000010562608023066923
+  },
+  {
+    "country": "Cyprus",
+    "name": "塞浦路斯",
+    "year": 2025,
+    "population": 1.370754,
+    "birthRate": 10.179,
+    "births": 13952,
+    "birthRatePercentage": 0.0001054145258496636
+  },
+  {
+    "country": "Germany",
+    "name": "德国",
+    "year": 2025,
+    "population": 84.075075,
+    "birthRate": 8.421,
+    "births": 707972,
+    "birthRatePercentage": 0.005349092079618552
+  },
+  {
+    "country": "Djibouti",
+    "name": "吉布提",
+    "year": 2025,
+    "population": 1.184076,
+    "birthRate": 20.675,
+    "births": 24481,
+    "birthRatePercentage": 0.00018496652862138864
+  },
+  {
+    "country": "Denmark",
+    "name": "丹麦",
+    "year": 2025,
+    "population": 6.002507,
+    "birthRate": 9.867,
+    "births": 59225,
+    "birthRatePercentage": 0.0004474752933949489
+  },
+  {
+    "country": "Dominica",
+    "name": "多米尼克",
+    "year": 2025,
+    "population": 0.065872,
+    "birthRate": 10.828,
+    "births": 713,
+    "birthRatePercentage": 0.000005387081202036277
+  },
+  {
+    "country": "Dominican Republic",
+    "name": "多米尼加共和国",
+    "year": 2025,
+    "population": 11.520487,
+    "birthRate": 17.275,
+    "births": 199014,
+    "birthRatePercentage": 0.0015036529850519604
+  },
+  {
+    "country": "Algeria",
+    "name": "阿尔及利亚",
+    "year": 2025,
+    "population": 47.435312,
+    "birthRate": 18.034,
+    "births": 855432,
+    "birthRatePercentage": 0.006463228116157499
+  },
+  {
+    "country": "Ecuador",
+    "name": "厄瓜多尔",
+    "year": 2025,
+    "population": 18.289896,
+    "birthRate": 14.635,
+    "births": 267665,
+    "birthRatePercentage": 0.002022346549709734
+  },
+  {
+    "country": "Estonia",
+    "name": "爱沙尼亚",
+    "year": 2025,
+    "population": 1.344232,
+    "birthRate": 7.89,
+    "births": 10605,
+    "birthRatePercentage": 0.0000801262218058832
+  },
+  {
+    "country": "Egypt",
+    "name": "埃及",
+    "year": 2025,
+    "population": 118.365994,
+    "birthRate": 20.699,
+    "births": 2450027,
+    "birthRatePercentage": 0.018511212336860216
+  },
+  {
+    "country": "Spain",
+    "name": "西班牙",
+    "year": 2025,
+    "population": 47.889958,
+    "birthRate": 6.892,
+    "births": 330044,
+    "birthRatePercentage": 0.0024936519330222458
+  },
+  {
+    "country": "Ethiopia",
+    "name": "埃塞俄比亚",
+    "year": 2025,
+    "population": 135.472051,
+    "birthRate": 30.831,
+    "births": 4176742,
+    "birthRatePercentage": 0.03155743101536523
+  },
+  {
+    "country": "Finland",
+    "name": "芬兰",
+    "year": 2025,
+    "population": 5.62333,
+    "birthRate": 7.811,
+    "births": 43926,
+    "birthRatePercentage": 0.0003318834907161929
+  },
+  {
+    "country": "Fiji",
+    "name": "斐济",
+    "year": 2025,
+    "population": 0.933154,
+    "birthRate": 17.624,
+    "births": 16446,
+    "birthRatePercentage": 0.00012425797678637955
+  },
+  {
+    "country": "France",
+    "name": "法国",
+    "year": 2025,
+    "population": 66.650804,
+    "birthRate": 9.52,
+    "births": 634528,
+    "birthRatePercentage": 0.004794184938240778
+  },
+  {
+    "country": "Gabon",
+    "name": "加蓬",
+    "year": 2025,
+    "population": 2.59313,
+    "birthRate": 26.646,
+    "births": 69096,
+    "birthRatePercentage": 0.0005220557682130416
   },
   {
     "country": "United Kingdom",
     "name": "英国",
-    "population": 67,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
+    "year": 2025,
+    "population": 69.551332,
+    "birthRate": 9.778,
+    "births": 680076,
+    "birthRatePercentage": 0.0051383234720280835
   },
   {
-    "country": "United States",
+    "country": "Grenada",
+    "name": "格林纳达",
+    "year": 2025,
+    "population": 0.117304,
+    "birthRate": 11.245,
+    "births": 1319,
+    "birthRatePercentage": 0.000009965722448086747
+  },
+  {
+    "country": "Georgia",
+    "name": "格鲁吉亚",
+    "year": 2025,
+    "population": 3.806671,
+    "birthRate": 11.057,
+    "births": 42089,
+    "birthRatePercentage": 0.0003180040122195019
+  },
+  {
+    "country": "Ghana",
+    "name": "加纳",
+    "year": 2025,
+    "population": 35.064272,
+    "birthRate": 25.607,
+    "births": 897874,
+    "birthRatePercentage": 0.006783899224680394
+  },
+  {
+    "country": "Gambia",
+    "name": "冈比亚",
+    "year": 2025,
+    "population": 2.822093,
+    "birthRate": 29.253,
+    "births": 82555,
+    "birthRatePercentage": 0.0006237454258542845
+  },
+  {
+    "country": "Guinea",
+    "name": "几内亚",
+    "year": 2025,
+    "population": 15.099727,
+    "birthRate": 32.752,
+    "births": 494546,
+    "birthRatePercentage": 0.0037365490324575497
+  },
+  {
+    "country": "Greece",
+    "name": "希腊",
+    "year": 2025,
+    "population": 9.938844,
+    "birthRate": 6.857,
+    "births": 68148,
+    "birthRatePercentage": 0.0005148931413132794
+  },
+  {
+    "country": "Guatemala",
+    "name": "危地马拉",
+    "year": 2025,
+    "population": 18.687881,
+    "birthRate": 20.34,
+    "births": 380110,
+    "birthRatePercentage": 0.0028719262772875305
+  },
+  {
+    "country": "Guam",
+    "name": "关岛",
+    "year": 2025,
+    "population": 0.168999,
+    "birthRate": 17.03,
+    "births": 2878,
+    "birthRatePercentage": 0.000021744768161936055
+  },
+  {
+    "country": "Guyana",
+    "name": "圭亚那",
+    "year": 2025,
+    "population": 0.835986,
+    "birthRate": 19.499,
+    "births": 16301,
+    "birthRatePercentage": 0.00012316242731331468
+  },
+  {
+    "country": "China, Hong Kong SAR",
+    "name": "中国香港特别行政区",
+    "year": 2025,
+    "population": 7.396076,
+    "birthRate": 5.268,
+    "births": 38963,
+    "birthRatePercentage": 0.00029438547668294456
+  },
+  {
+    "country": "Honduras",
+    "name": "洪都拉斯",
+    "year": 2025,
+    "population": 11.00585,
+    "birthRate": 21.315,
+    "births": 234594,
+    "birthRatePercentage": 0.00177247815920126
+  },
+  {
+    "country": "Haiti",
+    "name": "海地",
+    "year": 2025,
+    "population": 11.906096,
+    "birthRate": 21.622,
+    "births": 257433,
+    "birthRatePercentage": 0.0019450385344793898
+  },
+  {
+    "country": "Hungary",
+    "name": "匈牙利",
+    "year": 2025,
+    "population": 9.632287,
+    "birthRate": 8.752,
+    "births": 84300,
+    "birthRatePercentage": 0.0006369297970990999
+  },
+  {
+    "country": "Indonesia",
+    "name": "印度尼西亚",
+    "year": 2025,
+    "population": 285.721236,
+    "birthRate": 15.543,
+    "births": 4440838,
+    "birthRatePercentage": 0.033552811937010346
+  },
+  {
+    "country": "Ireland",
+    "name": "爱尔兰",
+    "year": 2025,
+    "population": 5.308039,
+    "birthRate": 9.912,
+    "births": 52616,
+    "birthRatePercentage": 0.0003975409039640123
+  },
+  {
+    "country": "Israel",
+    "name": "以色列",
+    "year": 2025,
+    "population": 9.51718,
+    "birthRate": 18.008,
+    "births": 171390,
+    "birthRatePercentage": 0.0012949394771626895
+  },
+  {
+    "country": "Isle of Man",
+    "name": "马恩岛",
+    "year": 2025,
+    "population": 0.084118,
+    "birthRate": 8.174,
+    "births": 688,
+    "birthRatePercentage": 0.000005198193361852677
+  },
+  {
+    "country": "India",
+    "name": "印度",
+    "year": 2025,
+    "population": 1463.865525,
+    "birthRate": 15.762,
+    "births": 23073267,
+    "birthRatePercentage": 0.17433038278438145
+  },
+  {
+    "country": "Iraq",
+    "name": "伊拉克",
+    "year": 2025,
+    "population": 47.020774,
+    "birthRate": 25.256,
+    "births": 1187570,
+    "birthRatePercentage": 0.008972701294673523
+  },
+  {
+    "country": "Iran (Islamic Republic of)",
+    "name": "伊朗",
+    "year": 2025,
+    "population": 92.417681,
+    "birthRate": 12.175,
+    "births": 1125230,
+    "birthRatePercentage": 0.008501690576391698
+  },
+  {
+    "country": "Iceland",
+    "name": "冰岛",
+    "year": 2025,
+    "population": 0.398266,
+    "birthRate": 10.965,
+    "births": 4367,
+    "birthRatePercentage": 0.00003299492792327128
+  },
+  {
+    "country": "Italy",
+    "name": "意大利",
+    "year": 2025,
+    "population": 59.14626,
+    "birthRate": 6.467,
+    "births": 382523,
+    "birthRatePercentage": 0.002890157731622052
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "name": "科特迪瓦",
+    "year": 2025,
+    "population": 32.711547,
+    "birthRate": 31.107,
+    "births": 1017551,
+    "birthRatePercentage": 0.007688120426666502
+  },
+  {
+    "country": "Jamaica",
+    "name": "牙买加",
+    "year": 2025,
+    "population": 2.837077,
+    "birthRate": 11.222,
+    "births": 31837,
+    "birthRatePercentage": 0.00024054488671701116
+  },
+  {
+    "country": "Jordan",
+    "name": "约旦",
+    "year": 2025,
+    "population": 11.520684,
+    "birthRate": 20.142,
+    "births": 232046,
+    "birthRatePercentage": 0.0017532267105297475
+  },
+  {
+    "country": "Japan",
+    "name": "日本",
+    "year": 2025,
+    "population": 123.103479,
+    "birthRate": 6.078,
+    "births": 748163,
+    "birthRatePercentage": 0.005652755727011315
+  },
+  {
+    "country": "Kenya",
+    "name": "肯尼亚",
+    "year": 2025,
+    "population": 57.532492,
+    "birthRate": 26.782,
+    "births": 1540813,
+    "birthRatePercentage": 0.011641633587872543
+  },
+  {
+    "country": "Kyrgyzstan",
+    "name": "吉尔吉斯斯坦",
+    "year": 2025,
+    "population": 7.295034,
+    "birthRate": 20.491,
+    "births": 149483,
+    "birthRatePercentage": 0.0011294208405666043
+  },
+  {
+    "country": "Cambodia",
+    "name": "柬埔寨",
+    "year": 2025,
+    "population": 17.847982,
+    "birthRate": 19.869,
+    "births": 354622,
+    "birthRatePercentage": 0.0026793513464635466
+  },
+  {
+    "country": "Dem. People's Republic of Korea",
+    "name": "朝鲜",
+    "year": 2025,
+    "population": 26.571036,
+    "birthRate": 12.603,
+    "births": 334881,
+    "birthRatePercentage": 0.0025301979523409688
+  },
+  {
+    "country": "Republic of Korea",
+    "name": "韩国",
+    "year": 2025,
+    "population": 51.667029,
+    "birthRate": 4.759,
+    "births": 245858,
+    "birthRatePercentage": 0.001857583464474383
+  },
+  {
+    "country": "Kuwait",
+    "name": "科威特",
+    "year": 2025,
+    "population": 5.026078,
+    "birthRate": 9.7,
+    "births": 48755,
+    "birthRatePercentage": 0.0003683690659260571
+  },
+  {
+    "country": "Kazakhstan",
+    "name": "哈萨克斯坦",
+    "year": 2025,
+    "population": 20.843754,
+    "birthRate": 18.952,
+    "births": 395033,
+    "birthRatePercentage": 0.0029846772068499255
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "name": "老挝",
+    "year": 2025,
+    "population": 7.873046,
+    "birthRate": 20.497,
+    "births": 161375,
+    "birthRatePercentage": 0.0012192710083851392
+  },
+  {
+    "country": "Lebanon",
+    "name": "黎巴嫩",
+    "year": 2025,
+    "population": 5.84942,
+    "birthRate": 15.82,
+    "births": 92538,
+    "birthRatePercentage": 0.0006991721181963998
+  },
+  {
+    "country": "Saint Lucia",
+    "name": "圣卢西亚",
+    "year": 2025,
+    "population": 0.180149,
+    "birthRate": 11.018,
+    "births": 1985,
+    "birthRatePercentage": 0.000014997694510577855
+  },
+  {
+    "country": "Liechtenstein",
+    "name": "列支敦士登",
+    "year": 2025,
+    "population": 0.040128,
+    "birthRate": 9.241,
+    "births": 371,
+    "birthRatePercentage": 0.000002803095548324627
+  },
+  {
+    "country": "Sri Lanka",
+    "name": "斯里兰卡",
+    "year": 2025,
+    "population": 23.22947,
+    "birthRate": 13.711,
+    "births": 318489,
+    "birthRatePercentage": 0.002406347973289386
+  },
+  {
+    "country": "Liberia",
+    "name": "利比里亚",
+    "year": 2025,
+    "population": 5.731206,
+    "birthRate": 30.267,
+    "births": 173467,
+    "birthRatePercentage": 0.001310632278925143
+  },
+  {
+    "country": "Lesotho",
+    "name": "莱索托",
+    "year": 2025,
+    "population": 2.363325,
+    "birthRate": 23.456,
+    "births": 55434,
+    "birthRatePercentage": 0.00041883234130950773
+  },
+  {
+    "country": "Lithuania",
+    "name": "立陶宛",
+    "year": 2025,
+    "population": 2.830144,
+    "birthRate": 7.808,
+    "births": 22099,
+    "birthRatePercentage": 0.0001669692952086952
+  },
+  {
+    "country": "Luxembourg",
+    "name": "卢森堡",
+    "year": 2025,
+    "population": 0.680454,
+    "birthRate": 10.211,
+    "births": 6948,
+    "birthRatePercentage": 0.00005249570854382616
+  },
+  {
+    "country": "Latvia",
+    "name": "拉脱维亚",
+    "year": 2025,
+    "population": 1.853559,
+    "birthRate": 7.394,
+    "births": 13706,
+    "birthRatePercentage": 0.00010355586950225697
+  },
+  {
+    "country": "Libya",
+    "name": "利比亚",
+    "year": 2025,
+    "population": 7.458554,
+    "birthRate": 16.112,
+    "births": 120174,
+    "birthRatePercentage": 0.0009079762922489588
+  },
+  {
+    "country": "Morocco",
+    "name": "摩洛哥",
+    "year": 2025,
+    "population": 38.43077,
+    "birthRate": 16.108,
+    "births": 619057,
+    "birthRatePercentage": 0.0046772935872215595
+  },
+  {
+    "country": "Monaco",
+    "name": "摩纳哥",
+    "year": 2025,
+    "population": 0.038341,
+    "birthRate": 9.622,
+    "births": 369,
+    "birthRatePercentage": 0.000002787984521109939
+  },
+  {
+    "country": "Republic of Moldova",
+    "name": "摩尔多瓦",
+    "year": 2025,
+    "population": 2.996106,
+    "birthRate": 10.35,
+    "births": 31009,
+    "birthRatePercentage": 0.00023428892145013034
+  },
+  {
+    "country": "Saint Martin (French part)",
+    "name": "法属圣马丁",
+    "year": 2025,
+    "population": 0.02494,
+    "birthRate": 13.425,
+    "births": 335,
+    "birthRatePercentage": 0.0000025310970584602425
+  },
+  {
+    "country": "Madagascar",
+    "name": "马达加斯加",
+    "year": 2025,
+    "population": 32.740678,
+    "birthRate": 31.255,
+    "births": 1023320,
+    "birthRatePercentage": 0.00773170818466727
+  },
+  {
+    "country": "Marshall Islands",
+    "name": "马绍尔群岛",
+    "year": 2025,
+    "population": 0.036282,
+    "birthRate": 19.707,
+    "births": 715,
+    "birthRatePercentage": 0.000005402192229250965
+  },
+  {
+    "country": "Mali",
+    "name": "马里",
+    "year": 2025,
+    "population": 25.198821,
+    "birthRate": 39.17,
+    "births": 987043,
+    "birthRatePercentage": 0.007457616817533651
+  },
+  {
+    "country": "Myanmar",
+    "name": "缅甸",
+    "year": 2025,
+    "population": 54.850648,
+    "birthRate": 16.195,
+    "births": 888309,
+    "birthRatePercentage": 0.006711630737026148
+  },
+  {
+    "country": "Mongolia",
+    "name": "蒙古",
+    "year": 2025,
+    "population": 3.5171,
+    "birthRate": 17.466,
+    "births": 61431,
+    "birthRatePercentage": 0.0004641427564127497
+  },
+  {
+    "country": "China, Macao SAR",
+    "name": "中国澳门特别行政区",
+    "year": 2025,
+    "population": 0.722007,
+    "birthRate": 6.275,
+    "births": 4531,
+    "birthRatePercentage": 0.0000342340321548757
+  },
+  {
+    "country": "Malta",
+    "name": "马耳他",
+    "year": 2025,
+    "population": 0.545405,
+    "birthRate": 7.758,
+    "births": 4231,
+    "birthRatePercentage": 0.000031967378072672494
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "name": "北马里亚纳群岛",
+    "year": 2025,
+    "population": 0.043541,
+    "birthRate": 11.44,
+    "births": 498,
+    "birthRatePercentage": 0.000003762645776457316
+  },
+  {
+    "country": "Martinique",
+    "name": "马提尼克",
+    "year": 2025,
+    "population": 0.340439,
+    "birthRate": 9.974,
+    "births": 3395,
+    "birthRatePercentage": 0.000025650968696932906
+  },
+  {
+    "country": "Mauritius",
+    "name": "毛里求斯",
+    "year": 2025,
+    "population": 1.26828,
+    "birthRate": 8.994,
+    "births": 11408,
+    "birthRatePercentage": 0.00008619329923258044
+  },
+  {
+    "country": "Maldives",
+    "name": "马尔代夫",
+    "year": 2025,
+    "population": 0.529676,
+    "birthRate": 10.2,
+    "births": 5403,
+    "birthRatePercentage": 0.00004082244002047967
+  },
+  {
+    "country": "Malawi",
+    "name": "马拉维",
+    "year": 2025,
+    "population": 22.21612,
+    "birthRate": 30.848,
+    "births": 685330,
+    "birthRatePercentage": 0.005178020140521069
+  },
+  {
+    "country": "Mexico",
+    "name": "墨西哥",
+    "year": 2025,
+    "population": 131.9469,
+    "birthRate": 15.185,
+    "births": 2003673,
+    "birthRatePercentage": 0.015138778616167789
+  },
+  {
+    "country": "Malaysia",
+    "name": "马来西亚",
+    "year": 2025,
+    "population": 35.977838,
+    "birthRate": 12.223,
+    "births": 439747,
+    "birthRatePercentage": 0.003322514442288705
+  },
+  {
+    "country": "Mozambique",
+    "name": "莫桑比克",
+    "year": 2025,
+    "population": 35.631653,
+    "birthRate": 36.608,
+    "births": 1304409,
+    "birthRatePercentage": 0.00985547994904199
+  },
+  {
+    "country": "Namibia",
+    "name": "纳米比亚",
+    "year": 2025,
+    "population": 3.092816,
+    "birthRate": 25.442,
+    "births": 78688,
+    "birthRatePercentage": 0.0005945282547346853
+  },
+  {
+    "country": "Niger",
+    "name": "尼日尔",
+    "year": 2025,
+    "population": 27.917831,
+    "birthRate": 40.769,
+    "births": 1138168,
+    "birthRatePercentage": 0.008599443811443515
+  },
+  {
+    "country": "Nigeria",
+    "name": "尼日利亚",
+    "year": 2025,
+    "population": 237.527782,
+    "birthRate": 32.167,
+    "births": 7640590,
+    "birthRatePercentage": 0.05772858171313655
+  },
+  {
+    "country": "Nicaragua",
+    "name": "尼加拉瓜",
+    "year": 2025,
+    "population": 7.007502,
+    "birthRate": 18.809,
+    "births": 131804,
+    "birthRatePercentage": 0.0009958469155023695
+  },
+  {
+    "country": "Netherlands",
+    "name": "荷兰",
+    "year": 2025,
+    "population": 18.346819,
+    "birthRate": 9.495,
+    "births": 174210,
+    "birthRatePercentage": 0.0013162460255353996
+  },
+  {
+    "country": "Norway",
+    "name": "挪威",
+    "year": 2025,
+    "population": 5.623071,
+    "birthRate": 9.422,
+    "births": 52978,
+    "birthRatePercentage": 0.00040027599988987084
+  },
+  {
+    "country": "Nepal",
+    "name": "尼泊尔",
+    "year": 2025,
+    "population": 29.618118,
+    "birthRate": 18.625,
+    "births": 551647,
+    "birthRatePercentage": 0.0041679764149505
+  },
+  {
+    "country": "New Zealand",
+    "name": "新西兰",
+    "year": 2025,
+    "population": 5.251899,
+    "birthRate": 11.137,
+    "births": 58491,
+    "birthRatePercentage": 0.0004419295464071584
+  },
+  {
+    "country": "Oman",
+    "name": "阿曼",
+    "year": 2025,
+    "population": 5.494691,
+    "birthRate": 16.403,
+    "births": 90129,
+    "birthRatePercentage": 0.000680970885916308
+  },
+  {
+    "country": "Panama",
+    "name": "巴拿马",
+    "year": 2025,
+    "population": 4.571189,
+    "birthRate": 15.666,
+    "births": 71610,
+    "birthRatePercentage": 0.0005410503294219044
+  },
+  {
+    "country": "Peru",
+    "name": "秘鲁",
+    "year": 2025,
+    "population": 34.576665,
+    "birthRate": 15.493,
+    "births": 535695,
+    "birthRatePercentage": 0.004047450861886149
+  },
+  {
+    "country": "French Polynesia",
+    "name": "法属波利尼西亚",
+    "year": 2025,
+    "population": 0.282465,
+    "birthRate": 10.479,
+    "births": 2960,
+    "birthRatePercentage": 0.00002236432027773826
+  },
+  {
+    "country": "Papua New Guinea",
+    "name": "巴布亚新几内亚",
+    "year": 2025,
+    "population": 10.762817,
+    "birthRate": 23.876,
+    "births": 256974,
+    "birthRatePercentage": 0.001941570553733619
+  },
+  {
+    "country": "Philippines",
+    "name": "菲律宾",
+    "year": 2025,
+    "population": 116.786962,
+    "birthRate": 15.804,
+    "births": 1845745,
+    "birthRatePercentage": 0.013945551463187164
+  },
+  {
+    "country": "Pakistan",
+    "name": "巴基斯坦",
+    "year": 2025,
+    "population": 255.219554,
+    "birthRate": 27.073,
+    "births": 6909545,
+    "birthRatePercentage": 0.05220516126805575
+  },
+  {
+    "country": "Poland",
+    "name": "波兰",
+    "year": 2025,
+    "population": 38.14091,
+    "birthRate": 7.797,
+    "births": 297389,
+    "birthRatePercentage": 0.002246926636174427
+  },
+  {
+    "country": "Puerto Rico",
+    "name": "波多黎各",
+    "year": 2025,
+    "population": 3.235289,
+    "birthRate": 5.9,
+    "births": 19087,
+    "birthRatePercentage": 0.00014421208822337506
+  },
+  {
+    "country": "State of Palestine",
+    "name": "西岸和加沙",
+    "year": 2025,
+    "population": 5.589623,
+    "birthRate": 25.921,
+    "births": 144890,
+    "birthRatePercentage": 0.0010947183665680732
+  },
+  {
+    "country": "Portugal",
+    "name": "葡萄牙",
+    "year": 2025,
+    "population": 10.411834,
+    "birthRate": 8.227,
+    "births": 85660,
+    "birthRatePercentage": 0.0006472052956050877
+  },
+  {
+    "country": "Paraguay",
+    "name": "巴拉圭",
+    "year": 2025,
+    "population": 7.013078,
+    "birthRate": 19.362,
+    "births": 135786,
+    "birthRatePercentage": 0.0010259329706868135
+  },
+  {
+    "country": "Qatar",
+    "name": "卡塔尔",
+    "year": 2025,
+    "population": 3.115888,
+    "birthRate": 9.607,
+    "births": 29934,
+    "birthRatePercentage": 0.00022616674432223552
+  },
+  {
+    "country": "Romania",
+    "name": "罗马尼亚",
+    "year": 2025,
+    "population": 18.90865,
+    "birthRate": 9.439,
+    "births": 178474,
+    "birthRatePercentage": 0.0013484627355571145
+  },
+  {
+    "country": "Russian Federation",
+    "name": "俄罗斯",
+    "year": 2025,
+    "population": 143.997393,
+    "birthRate": 8.624,
+    "births": 1241824,
+    "birthRatePercentage": 0.009382618129926365
+  },
+  {
+    "country": "Saudi Arabia",
+    "name": "沙特阿拉伯",
+    "year": 2025,
+    "population": 34.566328,
+    "birthRate": 16.342,
+    "births": 564878,
+    "birthRatePercentage": 0.004267943415489269
+  },
+  {
+    "country": "Solomon Islands",
+    "name": "所罗门群岛",
+    "year": 2025,
+    "population": 0.838646,
+    "birthRate": 26.423,
+    "births": 22160,
+    "birthRatePercentage": 0.0001674301815387432
+  },
+  {
+    "country": "Seychelles",
+    "name": "塞舌尔",
+    "year": 2025,
+    "population": 0.132779,
+    "birthRate": 13.343,
+    "births": 1772,
+    "birthRatePercentage": 0.000013388370112213581
+  },
+  {
+    "country": "Sudan",
+    "name": "苏丹",
+    "year": 2025,
+    "population": 51.662148,
+    "birthRate": 32.063,
+    "births": 1656421,
+    "birthRatePercentage": 0.012515111404990368
+  },
+  {
+    "country": "Sweden",
+    "name": "瑞典",
+    "year": 2025,
+    "population": 10.656633,
+    "birthRate": 9.102,
+    "births": 97002,
+    "birthRatePercentage": 0.0007328999309395834
+  },
+  {
+    "country": "Singapore",
+    "name": "新加坡",
+    "year": 2025,
+    "population": 5.87075,
+    "birthRate": 8.49,
+    "births": 49843,
+    "birthRatePercentage": 0.0003765894647308474
+  },
+  {
+    "country": "Slovenia",
+    "name": "斯洛文尼亚",
+    "year": 2025,
+    "population": 2.117072,
+    "birthRate": 8.129,
+    "births": 17209,
+    "birthRatePercentage": 0.00013002283366878302
+  },
+  {
+    "country": "Slovakia",
+    "name": "斯洛伐克",
+    "year": 2025,
+    "population": 5.474881,
+    "birthRate": 9.065,
+    "births": 49631,
+    "birthRatePercentage": 0.00037498769584609046
+  },
+  {
+    "country": "Sierra Leone",
+    "name": "塞拉利昂",
+    "year": 2025,
+    "population": 8.819794,
+    "birthRate": 29.512,
+    "births": 260288,
+    "birthRatePercentage": 0.0019666095258283572
+  },
+  {
+    "country": "San Marino",
+    "name": "圣马力诺",
+    "year": 2025,
+    "population": 0.033572,
+    "birthRate": 5.789,
+    "births": 194,
+    "birthRatePercentage": 0.0000014657696398247374
+  },
+  {
+    "country": "American Samoa",
+    "name": "美属萨摩亚",
+    "year": 2025,
+    "population": 0.046028,
+    "birthRate": 14.737,
+    "births": 678,
+    "birthRatePercentage": 0.000005122638225779237
+  },
+  {
+    "country": "Samoa",
+    "name": "萨摩亚",
+    "year": 2025,
+    "population": 0.219306,
+    "birthRate": 24.625,
+    "births": 5400,
+    "birthRatePercentage": 0.00004079977347965764
+  },
+  {
+    "country": "Senegal",
+    "name": "塞内加尔",
+    "year": 2025,
+    "population": 18.931966,
+    "birthRate": 28.931,
+    "births": 547717,
+    "birthRatePercentage": 0.004138283246473638
+  },
+  {
+    "country": "Somalia",
+    "name": "索马里",
+    "year": 2025,
+    "population": 19.654739,
+    "birthRate": 41.833,
+    "births": 822215,
+    "birthRatePercentage": 0.006212256620662353
+  },
+  {
+    "country": "Suriname",
+    "name": "苏里南",
+    "year": 2025,
+    "population": 0.63985,
+    "birthRate": 16.967,
+    "births": 10856,
+    "birthRatePercentage": 0.00008202265572132654
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "name": "圣多美和普林西比",
+    "year": 2025,
+    "population": 0.240254,
+    "birthRate": 27.837,
+    "births": 6688,
+    "birthRatePercentage": 0.00005053127500591672
+  },
+  {
+    "country": "El Salvador",
+    "name": "萨尔瓦多",
+    "year": 2025,
+    "population": 6.365503,
+    "birthRate": 15.376,
+    "births": 97874,
+    "birthRatePercentage": 0.0007394883388051874
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "name": "荷属圣马丁",
+    "year": 2025,
+    "population": 0.043923,
+    "birthRate": 8.996,
+    "births": 395,
+    "birthRatePercentage": 0.000002984427874900883
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "name": "叙利亚",
+    "year": 2025,
+    "population": 25.620427,
+    "birthRate": 23.475,
+    "births": 601433,
+    "birthRatePercentage": 0.004544135215405728
+  },
+  {
+    "country": "Eswatini",
+    "name": "斯威士兰",
+    "year": 2025,
+    "population": 1.256174,
+    "birthRate": 23.251,
+    "births": 29208,
+    "birthRatePercentage": 0.00022068144144330378
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "name": "特克斯和凯科斯群岛",
+    "year": 2025,
+    "population": 0.046855,
+    "birthRate": 10.325,
+    "births": 484,
+    "birthRatePercentage": 0.0000036568685859544998
+  },
+  {
+    "country": "Chad",
+    "name": "乍得",
+    "year": 2025,
+    "population": 21.003705,
+    "birthRate": 43.198,
+    "births": 907325,
+    "birthRatePercentage": 0.006855306383783402
+  },
+  {
+    "country": "Togo",
+    "name": "多哥",
+    "year": 2025,
+    "population": 9.721608,
+    "birthRate": 30.453,
+    "births": 296051,
+    "birthRatePercentage": 0.0022368173589678007
+  },
+  {
+    "country": "Thailand",
+    "name": "泰国",
+    "year": 2025,
+    "population": 71.619863,
+    "birthRate": 7.992,
+    "births": 572371,
+    "birthRatePercentage": 0.004324556878949097
+  },
+  {
+    "country": "Tajikistan",
+    "name": "塔吉克斯坦",
+    "year": 2025,
+    "population": 10.786734,
+    "birthRate": 24.522,
+    "births": 264517,
+    "birthRatePercentage": 0.001998561792873815
+  },
+  {
+    "country": "Turkmenistan",
+    "name": "土库曼斯坦",
+    "year": 2025,
+    "population": 7.618848,
+    "birthRate": 20.034,
+    "births": 152636,
+    "birthRatePercentage": 0.00115324337497056
+  },
+  {
+    "country": "Tunisia",
+    "name": "突尼斯",
+    "year": 2025,
+    "population": 12.348573,
+    "birthRate": 12.998,
+    "births": 160508,
+    "birthRatePercentage": 0.001212720378087572
+  },
+  {
+    "country": "Tonga",
+    "name": "汤加",
+    "year": 2025,
+    "population": 0.103742,
+    "birthRate": 22.795,
+    "births": 2365,
+    "birthRatePercentage": 0.000017868789681368577
+  },
+  {
+    "country": "Türkiye",
+    "name": "土耳其",
+    "year": 2025,
+    "population": 87.685426,
+    "birthRate": 12.012,
+    "births": 1053303,
+    "birthRatePercentage": 0.007958245149156265
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "name": "特立尼达和多巴哥",
+    "year": 2025,
+    "population": 1.511155,
+    "birthRate": 10.281,
+    "births": 15536,
+    "birthRatePercentage": 0.0001173824594036965
+  },
+  {
+    "country": "Tuvalu",
+    "name": "图瓦卢",
+    "year": 2025,
+    "population": 0.009492,
+    "birthRate": 21.204,
+    "births": 201,
+    "birthRatePercentage": 0.0000015186582350761455
+  },
+  {
+    "country": "United Republic of Tanzania",
+    "name": "坦桑尼亚",
+    "year": 2025,
+    "population": 70.545865,
+    "birthRate": 34.294,
+    "births": 2419272,
+    "birthRatePercentage": 0.018278842515866353
+  },
+  {
+    "country": "Ukraine",
+    "name": "乌克兰",
+    "year": 2025,
+    "population": 38.980376,
+    "birthRate": 5.649,
+    "births": 220203,
+    "birthRatePercentage": 0.0016637467628779724
+  },
+  {
+    "country": "Uganda",
+    "name": "乌干达",
+    "year": 2025,
+    "population": 51.384894,
+    "birthRate": 33.756,
+    "births": 1734565,
+    "birthRatePercentage": 0.013105529460322658
+  },
+  {
+    "country": "United States of America",
     "name": "美国",
-    "population": 333.3,
-    "birthRate": 11,
-    "birthRatePercentage": 0.00282849061455387
+    "year": 2025,
+    "population": 347.275808,
+    "birthRate": 10.55,
+    "births": 3663798,
+    "birthRatePercentage": 0.02768187564355976
   },
   {
     "country": "Uruguay",
     "name": "乌拉圭",
-    "population": 3.4,
-    "birthRate": 10,
-    "birthRatePercentage": 0.0025713551041398816
+    "year": 2025,
+    "population": 3.384688,
+    "birthRate": 9.748,
+    "births": 32993,
+    "birthRatePercentage": 0.00024927906044710087
   },
   {
     "country": "Uzbekistan",
     "name": "乌兹别克斯坦",
-    "population": 35.6,
-    "birthRate": 26,
-    "birthRatePercentage": 0.006685523270763692
+    "year": 2025,
+    "population": 37.053428,
+    "birthRate": 24.592,
+    "births": 911213,
+    "birthRatePercentage": 0.006884682220688755
   },
   {
-    "country": "Vanuatu",
-    "name": "瓦努阿图",
-    "population": 0.3,
-    "birthRate": 29,
-    "birthRatePercentage": 0.007456929802005657
-  },
-  {
-    "country": "Venezuela, RB",
+    "country": "Venezuela (Bolivarian Republic of)",
     "name": "委内瑞拉",
-    "population": 28.3,
-    "birthRate": 16,
-    "birthRatePercentage": 0.004114168166623811
+    "year": 2025,
+    "population": 28.516896,
+    "birthRate": 15.294,
+    "births": 436134,
+    "birthRatePercentage": 0.0032952163716253712
   },
   {
     "country": "Viet Nam",
     "name": "越南",
-    "population": 98.2,
-    "birthRate": 15,
-    "birthRatePercentage": 0.0038570326562098224
+    "year": 2025,
+    "population": 101.598527,
+    "birthRate": 13.075,
+    "births": 1328422,
+    "birthRatePercentage": 0.01003691049729514
   },
   {
-    "country": "Virgin Islands (U.S.)",
-    "name": "美属维尔京群岛",
-    "population": 0.1,
-    "birthRate": 12,
-    "birthRatePercentage": 0.0030856261249678583
-  },
-  {
-    "country": "West Bank and Gaza",
-    "name": "西岸和加沙",
-    "population": 5,
-    "birthRate": 28,
-    "birthRatePercentage": 0.007199794291591669
-  },
-  {
-    "country": "Yemen, Rep.",
+    "country": "Yemen",
     "name": "也门",
-    "population": 33.7,
-    "birthRate": 31,
-    "birthRatePercentage": 0.007971200822833634
+    "year": 2025,
+    "population": 41.773878,
+    "birthRate": 33.546,
+    "births": 1401358,
+    "birthRatePercentage": 0.010587979437760384
+  },
+  {
+    "country": "Serbia",
+    "name": "塞尔维亚",
+    "year": 2025,
+    "population": 6.689039,
+    "birthRate": 8.692,
+    "births": 58142,
+    "birthRatePercentage": 0.0004392926721581953
+  },
+  {
+    "country": "South Africa",
+    "name": "南非",
+    "year": 2025,
+    "population": 64.747319,
+    "birthRate": 18.159,
+    "births": 1175749,
+    "birthRatePercentage": 0.00888338756832111
   },
   {
     "country": "Zambia",
     "name": "赞比亚",
-    "population": 20,
-    "birthRate": 35,
-    "birthRatePercentage": 0.008999742864489586
+    "year": 2025,
+    "population": 21.913874,
+    "birthRate": 32.351,
+    "births": 708934,
+    "birthRatePercentage": 0.005356360483708817
   },
   {
     "country": "Zimbabwe",
     "name": "津巴布韦",
-    "population": 16.3,
-    "birthRate": 31,
-    "birthRatePercentage": 0.007971200822833634
+    "year": 2025,
+    "population": 16.950795,
+    "birthRate": 29.54,
+    "births": 500731,
+    "birthRatePercentage": 0.003783279884118972
+  },
+  {
+    "country": "Greenland",
+    "name": "格陵兰",
+    "year": 2025,
+    "population": 0.055745,
+    "birthRate": 13.232,
+    "births": 738,
+    "birthRatePercentage": 0.000005575969042219878
+  },
+  {
+    "country": "Guinea-Bissau",
+    "name": "几内亚比绍",
+    "year": 2025,
+    "population": 2.249515,
+    "birthRate": 29.103,
+    "births": 65468,
+    "birthRatePercentage": 0.0004946443648455974
+  },
+  {
+    "country": "Kiribati",
+    "name": "基里巴斯",
+    "year": 2025,
+    "population": 0.136488,
+    "birthRate": 24.799,
+    "births": 3385,
+    "birthRatePercentage": 0.000025575413560859466
+  },
+  {
+    "country": "Kosovo (under UNSC res. 1244)",
+    "name": "科索沃",
+    "year": 2025,
+    "population": 1.674125,
+    "birthRate": 11.683,
+    "births": 19558,
+    "birthRatePercentage": 0.0001477707351324341
+  },
+  {
+    "country": "Mauritania",
+    "name": "毛里塔尼亚",
+    "year": 2025,
+    "population": 5.315065,
+    "birthRate": 33.659,
+    "births": 178900,
+    "birthRatePercentage": 0.001351681384353843
+  },
+  {
+    "country": "Micronesia (Fed. States of)",
+    "name": "密克罗尼西亚联邦",
+    "year": 2025,
+    "population": 0.113683,
+    "birthRate": 22.137,
+    "births": 2517,
+    "birthRatePercentage": 0.000019017227749684866
+  },
+  {
+    "country": "Montenegro",
+    "name": "黑山",
+    "year": 2025,
+    "population": 0.632729,
+    "birthRate": 11.014,
+    "births": 6969,
+    "birthRatePercentage": 0.00005265437432958039
+  },
+  {
+    "country": "New Caledonia",
+    "name": "新喀里多尼亚",
+    "year": 2025,
+    "population": 0.295333,
+    "birthRate": 13.776,
+    "births": 4068,
+    "birthRatePercentage": 0.00003073582935467542
+  },
+  {
+    "country": "North Macedonia",
+    "name": "北马其顿",
+    "year": 2025,
+    "population": 1.813791,
+    "birthRate": 8.994,
+    "births": 16313,
+    "birthRatePercentage": 0.0001232530934766028
+  },
+  {
+    "country": "Palau",
+    "name": "帕劳",
+    "year": 2025,
+    "population": 0.017663,
+    "birthRate": 10.553,
+    "births": 186,
+    "birthRatePercentage": 0.0000014053255309659854
+  },
+  {
+    "country": "Rwanda",
+    "name": "卢旺达",
+    "year": 2025,
+    "population": 14.56934,
+    "birthRate": 27.737,
+    "births": 404109,
+    "birthRatePercentage": 0.0030532510483501796
+  },
+  {
+    "country": "South Sudan",
+    "name": "南苏丹",
+    "year": 2025,
+    "population": 12.188788,
+    "birthRate": 29.348,
+    "births": 357711,
+    "birthRatePercentage": 0.0027026903279966322
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "name": "圣基茨和尼维斯",
+    "year": 2025,
+    "population": 0.046922,
+    "birthRate": 11.461,
+    "births": 538,
+    "birthRatePercentage": 0.0000040648663207510764
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "name": "圣文森特和格林纳丁斯",
+    "year": 2025,
+    "population": 0.099924,
+    "birthRate": 11.8,
+    "births": 1179,
+    "birthRatePercentage": 0.000008907950543058584
+  },
+  {
+    "country": "United States Virgin Islands",
+    "name": "美属维尔京群岛",
+    "year": 2025,
+    "population": 0.084138,
+    "birthRate": 10.979,
+    "births": 924,
+    "birthRatePercentage": 0.000006981294573185863
+  },
+  {
+    "country": "Timor-Leste",
+    "name": "东帝汶",
+    "year": 2025,
+    "population": 1.418517,
+    "birthRate": 21.602,
+    "births": 30643,
+    "birthRatePercentage": 0.00023152360346984243
+  },
+  {
+    "country": "Vanuatu",
+    "name": "瓦努阿图",
+    "year": 2025,
+    "population": 0.335169,
+    "birthRate": 27.208,
+    "births": 9119,
+    "birthRatePercentage": 0.00006889872858537
+  },
+  {
+    "country": "China, Taiwan Province of China",
+    "name": "台湾（中国）",
+    "year": 2025,
+    "population": 23.112793,
+    "birthRate": 5.422,
+    "births": 125322,
+    "birthRatePercentage": 0.0009468720762995657
   }
 ]
