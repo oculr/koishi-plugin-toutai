@@ -12,11 +12,7 @@ export const inject = {
 export const usage = `## 使用
 
 1. 启动 \`puppeteer\` 服务。
-2. 设置指令别名。
-
-## QQ 群
-
-- 956758505`;
+2. 设置指令别名。`;
 
 export interface Config {
   defaultMaxDisplayCount: number;

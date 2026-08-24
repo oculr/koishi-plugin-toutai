@@ -1,5 +1,4 @@
-koishi-plugin-toutai-altered
-============================
+# koishi-plugin-toutai-altered
 
 [<img alt="github" src="https://img.shields.io/badge/github-oculr/toutai-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/oculr/koishi-plugin-toutai)
 [<img alt="npm" src="https://img.shields.io/npm/v/koishi-plugin-toutai-altered.svg?style=for-the-badge&color=fc8d62&logo=npm" height="20">](https://www.npmjs.com/package/koishi-plugin-toutai-altered)
@@ -24,31 +23,6 @@ Koishi 的投胎模拟器搞耍版。投胎到中国或世界各地，并收获�
 
 维护者可下载联合国[官方 CSV](https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20%28Standard%29/CSV_FILES/WPP2024_Demographic_Indicators_Medium.csv.gz) 后运行 `npm run data:update -- <文件路径>`，重新生成投胎权重。
 
-## 致谢
+## 原仓库
 
-* [ilHarp](https://forum.koishi.xyz/u/ilharp/summary)
-* [Koishi](https://koishi.chat/)
-* [求插件](https://forum.koishi.xyz/t/topic/7415)
-* [中国投胎模拟器](https://toutai.cc/)
-* [世界投胎模拟器](https://uahh.site/reborn)
-
-## QQ 群
-
-- 956758505
-
-<br>
-
-#### License
-
-<sup>
-Licensed under either of <a href="LICENSE-APACHE">Apache License, Version
-2.0</a> or <a href="LICENSE-MIT">MIT license</a> at your option.
-</sup>
-
-<br>
-
-<sub>
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in this crate by you, as defined in the Apache-2.0 license, shall
-be dual licensed as above, without any additional terms or conditions.
-</sub>
+[https://github.com/araea/koishi-plugin-toutai](https://github.com/araea/koishi-plugin-toutai)
